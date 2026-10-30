@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Yonsei-KIAA Workshop on Galaxy Evolution, Jan. 31-Feb. 3, 2027 at Yonsei University." />
+  <title>Yonsei-KIAA Workshop on Galaxy Evolution</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header" id="top">
+    <nav class="nav wrap">
+      <a class="brand" href="#top">Yonsei × KIAA</a>
+      <button class="menu-toggle" aria-label="Toggle navigation" onclick="document.body.classList.toggle('nav-open')">☰</button>
+      <div class="nav-links">
+        <a href="#about">Home</a>
+        <a href="#program">Program</a>
+        <a href="#participants">Participants</a>
+        <a href="#venue">Venue</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-overlay"></div>
+      <div class="wrap hero-content">
+        <div class="institution-row">
+          <a class="institution-card" href="https://www.yonsei.ac.kr/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.prod.website-files.com/688091aebb076bf586d9e86c/6881ef72af36af42d6fda304_Yonsei%20University.jpg" alt="Yonsei University logo" />
+            <span>Yonsei University</span>
+          </a>
+          <span class="xmark">×</span>
+          <a class="institution-card" href="https://kiaa.pku.edu.cn/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Peking_University_seal.svg/480px-Peking_University_seal.svg.png" alt="Peking University seal" />
+            <span>KIAA · Peking University</span>
+          </a>
+        </div>
+        <p class="eyebrow">JANUARY 31 – FEBRUARY 3, 2027 · SEOUL, KOREA</p>
+        <h1>Yonsei-KIAA Workshop<br><span>on Galaxy Evolution</span></h1>
+        <p class="hero-lede">A focused workshop bringing together researchers from Yonsei University, KIAA at Peking University, and partner institutions to discuss galaxies and active galactic nuclei across cosmic time.</p>
+        <div class="hero-actions">
+          <a class="btn primary" href="#program">Explore the program</a>
+          <a class="btn ghost" href="#participants">View participants</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="about">
+      <div class="wrap two-col">
+        <div>
+          <p class="kicker">About the workshop</p>
+          <h2>Galaxy evolution from nearby systems to the high-redshift Universe</h2>
+          <p class="lead">The Yonsei-KIAA Workshop on Galaxy Evolution is designed as an intensive forum for new results, cross-institution collaboration, and discussion of emerging facilities and surveys.</p>
+          <p>Topics span high-z galaxies, little red dots, AGNs, nearby galaxies, CSST, 7DS, and SPHEREx, with a combination of invited presentations, contributed talks, hands-on activity, and discussion sessions.</p>
+        </div>
+        <aside class="info-panel">
+          <div><span>Date</span><strong>Jan. 31 – Feb. 3, 2027</strong></div>
+          <div><span>Venue</span><strong>Yonsei University, Seoul</strong></div>
+          <div><span>Format</span><strong>Invited + contributed talks</strong></div>
+          <div><span>Hosts</span><strong>Yonsei University & KIAA-PKU</strong></div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section-dark">
+      <div class="wrap">
+        <p class="kicker light">Scientific themes</p>
+        <div class="topic-grid">
+          <article><span>01</span><h3>High-z Galaxies</h3><p>Formation, morphology, structure, and evolution in the early Universe.</p></article>
+          <article><span>02</span><h3>Little Red Dots</h3><p>Emerging constraints on compact red sources and their AGN connection.</p></article>
+          <article><span>03</span><h3>AGNs</h3><p>Black-hole growth, variability, obscuration, hosts, and feedback.</p></article>
+          <article><span>04</span><h3>Nearby Galaxies</h3><p>Resolved studies that connect local physics to cosmic evolution.</p></article>
+          <article><span>05</span><h3>CSST & 7DS</h3><p>Survey strategies, datasets, and new opportunities for galaxy science.</p></article>
+          <article><span>06</span><h3>SPHEREx</h3><p>Infrared spectrophotometric mapping of galaxies, dust, and AGNs.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="soc">
+      <div class="wrap">
+        <p class="kicker">Scientific organizing committee</p>
+        <div class="soc-grid">
+          <article><div class="avatar">MK</div><h3>Minjin Kim</h3><p>Yonsei University</p></article>
+          <article><div class="avatar">LH</div><h3>Luis C. Ho</h3><p>KIAA, Peking University</p></article>
+          <article><div class="avatar">JS</div><h3>Jinny Shanguan</h3><p>KIAA, Peking University</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section accent-section">
+      <div class="wrap">
+        <p class="kicker">Invited talks</p>
+        <div id="invited-talks" class="invited-grid"></div>
+      </div>
+    </section>
+
+    <section class="section" id="program">
+      <div class="wrap">
+        <div class="section-head">
+          <div><p class="kicker">Program</p><h2>Workshop schedule</h2></div>
+          <p class="edit-note">Edit <code>data.js</code> to update the schedule. All talks, general sessions, meals, and breaks are displayed together in chronological order; scientific topics remain labeled on each entry.</p>
+        </div>
+        <div id="program-root"></div>
+      </div>
+    </section>
+
+    <section class="section section-soft" id="participants">
+      <div class="wrap">
+        <div class="section-head">
+          <div><p class="kicker">Participants</p><h2>Participant list</h2></div>
+          <p class="edit-note">Edit <code>data.js</code> to update names, positions, affiliations, or numbering.</p>
+        </div>
+        <div class="table-tools">
+          <input id="participant-search" type="search" placeholder="Search by name, position, or affiliation…" aria-label="Search participants" />
+          <span id="participant-count"></span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>No.</th><th>Name</th><th>Position</th><th>Affiliation</th></tr></thead>
+            <tbody id="participants-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="venue">
+      <div class="wrap venue-grid">
+        <div>
+          <p class="kicker">Venue</p>
+          <h2>Yonsei University</h2>
+          <p class="lead">The workshop will be held at Yonsei University’s Sinchon campus in Seoul, a historic campus with convenient access to central Seoul.</p>
+          <div class="venue-facts">
+            <div><span>Campus</span><strong>Sinchon Campus</strong></div>
+            <div><span>City</span><strong>Seoul, Republic of Korea</strong></div>
+            <div><span>Detailed room</span><strong>To be announced</strong></div>
+          </div>
+          <a class="btn primary" href="https://www.yonsei.ac.kr/en_sc/1815/subview.do" target="_blank" rel="noreferrer">Yonsei campus information</a>
+        </div>
+        <figure class="venue-photo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/20230624_%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90_%EC%96%B8%EB%8D%94%EC%9A%B0%EB%93%9C%ED%99%80.jpg" alt="Underwood Hall at Yonsei University" />
+          <figcaption>Yonsei University, Sinchon Campus</figcaption>
+        </figure>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap footer-row">
+      <div><strong>Yonsei-KIAA Workshop on Galaxy Evolution</strong><span>Jan. 31 – Feb. 3, 2027 · Yonsei University</span></div>
+      <a href="#top">Back to top ↑</a>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script>
+    const D = window.WORKSHOP_DATA;
+    const dateLabel = s => new Date(s+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+    const invited = D.program.filter(x => x.type === 'I' && x.name && !/break|lunch|banquet/i.test(x.name));
+    document.getElementById('invited-talks').innerHTML = invited.map(x => `
+      <article><span class="talk-topic">${x.topic || 'Special Session'}</span><h3>${x.name}</h3><p>${x.title || 'Title to be announced'}</p></article>`).join('');
+
+    const byDate = Object.groupBy ? Object.groupBy(D.program, x => x.date) : D.program.reduce((a,x)=>((a[x.date]??=[]).push(x),a),{});
+    const programRoot = document.getElementById('program-root');
+    programRoot.innerHTML = Object.entries(byDate).map(([date, items]) => {
+      const ordered = [...items].sort((a,b) => (a.begin || '99:99').localeCompare(b.begin || '99:99'));
+      const rows = ordered.map(x => {
+        const isBreak = /break|lunch|banquet|dinner|coffee/i.test(`${x.name||''} ${x.title||''}`);
+        const topic = x.topic ? `<span class="session-topic">${x.topic}</span>` : '';
+        return `<div class="program-row ${isBreak ? 'break-row':''}">
+          <div class="time">${x.begin || ''}${x.end ? '–'+x.end : ''}</div>
+          <div class="program-main">${topic}<strong>${x.name || x.title || 'Session'}</strong>${x.title && x.name ? `<span>${x.title}</span>` : ''}</div>
+          <div class="badge ${x.type==='I'?'invited':''}">${x.type==='I'?'Invited':x.type==='C'?'Contributed':''}</div>
+        </div>`;
+      }).join('');
+      return `<section class="day"><div class="day-title"><span>${dateLabel(date)}</span></div><div class="program-list">${rows}</div></section>`;
+    }).join('');
+
+    const tbody=document.getElementById('participants-body'), count=document.getElementById('participant-count'), search=document.getElementById('participant-search');
+    function drawParticipants(q=''){
+      q=q.toLowerCase().trim();
+      const rows=D.participants.filter(p=>!q || [p.name,p.position,p.affiliation,String(p.no)].join(' ').toLowerCase().includes(q));
+      count.textContent=`${rows.length} participant${rows.length===1?'':'s'}`;
+      tbody.innerHTML=rows.map(p=>`<tr><td>${p.no}</td><td><strong>${p.name}</strong></td><td>${p.position}</td><td>${p.affiliation}</td></tr>`).join('');
+    }
+    search.addEventListener('input',e=>drawParticipants(e.target.value)); drawParticipants();
+  </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+YONSEI-KIAA WORKSHOP WEBSITE
+
+Main file: index.html
+Editable content: data.js
+Styling: styles.css
+
+HOW TO EDIT THE PROGRAM
+1. Open data.js in any text editor.
+2. Edit the entries inside the "program" array.
+3. Keep these fields for each entry:
+   date, topic, begin, end, name, title, type
+4. Use type "I" for invited talks, "C" for contributed talks, or leave blank.
+5. The website automatically groups the schedule by date and topic.
+
+HOW TO EDIT PARTICIPANTS
+1. Open data.js.
+2. Edit the entries inside the "participants" array.
+3. Each entry contains: no, name, position, affiliation.
+
+DEPLOYMENT
+Upload index.html, styles.css, and data.js to the same web folder on any static host (GitHub Pages, institutional server, Netlify, etc.).
+
+NOTE ON IMAGES
+The site loads public web-hosted images for the institutional logos and Yonsei campus photograph. If you prefer a fully offline/self-hosted version, replace those image URLs in index.html/styles.css with locally hosted image files.
+
+SOURCE ADJUSTMENT
+The supplied spreadsheet used 2026 dates. The website uses the requested 2027 workshop dates.
