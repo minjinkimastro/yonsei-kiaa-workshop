@@ -378,7 +378,7 @@ window.WORKSHOP_DATA = {
       "end": "11:50",
       "name": "Kyuseok Oh",
       "title": "SPHEREx Near-Infrared Spectrophotometry of Hot Dust in Swift-BAT AGN",
-      "type": "C"
+      "type": "I"
     },
     {
       "date": "2027-02-02",
