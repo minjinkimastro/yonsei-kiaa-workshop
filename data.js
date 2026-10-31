@@ -429,7 +429,7 @@ window.WORKSHOP_DATA = {
       "date": "2027-02-02",
       "topic": "AGNs & Variability",
       "begin": "15:15",
-      "end": "15:30",
+      "end": "15:40",
       "name": "Linxin Chen",
       "title": "Study of one AGN dominated galaxy I ZW 1",
       "type": "C"
@@ -437,7 +437,7 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-02",
       "topic": "",
-      "begin": "15:30",
+      "begin": "15:40",
       "end": "16:00",
       "name": "",
       "title": "Discussion",
