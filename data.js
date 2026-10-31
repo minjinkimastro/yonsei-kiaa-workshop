@@ -411,7 +411,7 @@ window.WORKSHOP_DATA = {
       "date": "2027-02-02",
       "topic": "AGNs & Variability",
       "begin": "14:25",
-      "end": "14:25",
+      "end": "14:50",
       "name": "Suyeon Son",
       "title": "Optically Variable Type 2 AGNs",
       "type": "C"
@@ -419,8 +419,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-02",
       "topic": "AGNs & Variability",
-      "begin": "14:25",
-      "end": "14:50",
+      "begin": "14:50",
+      "end": "15:15",
       "name": "Minjin Kim",
       "title": "Probing the Central Structure of AGNs Through Variability",
       "type": "C"
@@ -428,8 +428,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-02",
       "topic": "AGNs & Variability",
-      "begin": "14:50",
-      "end": "15:15",
+      "begin": "15:15",
+      "end": "15:30",
       "name": "Linxin Chen",
       "title": "Study of one AGN dominated galaxy I ZW 1",
       "type": "C"
@@ -437,7 +437,7 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-02",
       "topic": "",
-      "begin": "15:15",
+      "begin": "15:30",
       "end": "16:00",
       "name": "",
       "title": "Discussion",
