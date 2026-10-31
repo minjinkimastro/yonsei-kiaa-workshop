@@ -196,8 +196,8 @@ window.WORKSHOP_DATA = {
       "topic": "",
       "begin": "09:30",
       "end": "09:40",
-      "name": "Jinny Shangguan / Minjin Kim",
-      "title": "Opneinig Remarks",
+      "name": "Jinyi Shangguan / Minjin Kim",
+      "title": "Openinig Remarks",
       "type": ""
     },
     {
@@ -268,7 +268,7 @@ window.WORKSHOP_DATA = {
       "topic": "Galaxy Evolution 2",
       "begin": "14:00",
       "end": "14:40",
-      "name": "Jinny Shangguan",
+      "name": "Jinyi Shangguan",
       "title": "Overview of CSST",
       "type": "I"
     },
