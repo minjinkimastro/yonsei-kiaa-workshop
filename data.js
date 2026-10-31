@@ -32,7 +32,7 @@ window.WORKSHOP_DATA = {
     },
     {
       "no": 6,
-      "name": "Jinny Shagnguan",
+      "name": "Jinyi Shangguan",
       "position": "Professor/Research Staff",
       "affiliation": "KIAA"
     },
