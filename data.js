@@ -188,7 +188,7 @@ window.WORKSHOP_DATA = {
       "begin": "15:00",
       "end": "18:00",
       "name": "",
-      "title": "Hands on session on GALFITX and GalfitT?",
+      "title": "Hands-on session on GALFITX and GalfitT?",
       "type": ""
     },
     {
@@ -197,7 +197,7 @@ window.WORKSHOP_DATA = {
       "begin": "09:30",
       "end": "09:40",
       "name": "Jinyi Shangguan / Minjin Kim",
-      "title": "Openinig Remarks",
+      "title": "Opening Remarks",
       "type": ""
     },
     {
