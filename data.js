@@ -242,8 +242,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "",
-      "begin": "09:30",
-      "end": "09:40",
+      "begin": "09:20",
+      "end": "09:30",
       "name": "Jinyi Shangguan / Minjin Kim",
       "title": "Opening Remarks",
       "type": ""
@@ -251,8 +251,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 1",
-      "begin": "09:40",
-      "end": "10:20",
+      "begin": "09:30",
+      "end": "10:10",
       "name": "Sukyoung Yi",
       "title": "NewCluster",
       "type": "I"
@@ -260,8 +260,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 1",
-      "begin": "10:20",
-      "end": "10:40",
+      "begin": "10:10",
+      "end": "10:30",
       "name": "Yixiao Lyu",
       "title": "Bar evolution in CEERS",
       "type": "C"
@@ -269,8 +269,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 1",
-      "begin": "10:40",
-      "end": "11:00",
+      "begin": "10:30",
+      "end": "10:50",
       "name": "Taehyun Kim",
       "title": "The Interplay between Bar-driven Gas Motions and Star Formation",
       "type": "C"
@@ -278,8 +278,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "",
-      "begin": "11:00",
-      "end": "11:30",
+      "begin": "10:50",
+      "end": "11:10",
       "name": "Break",
       "title": "",
       "type": ""
@@ -287,8 +287,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 1",
-      "begin": "11:30",
-      "end": "12:00",
+      "begin": "11:10",
+      "end": "11:40",
       "name": "Jeong Hwan Lee",
       "title": "High-redshift Galaxy Morphologies: from HR5 to JWST",
       "type": "I"
@@ -296,8 +296,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 1",
-      "begin": "12:00",
-      "end": "12:20",
+      "begin": "11:40",
+      "end": "12:00",
       "name": "Pinsong Zhao",
       "title": "GALFITX application to CEERS data",
       "type": "C"
@@ -305,8 +305,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "",
-      "begin": "12:20",
-      "end": "14:00",
+      "begin": "12:00",
+      "end": "13:30",
       "name": "Lunch",
       "title": "",
       "type": ""
@@ -314,8 +314,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 2",
-      "begin": "14:00",
-      "end": "14:40",
+      "begin": "13:30",
+      "end": "14:10",
       "name": "Jinyi Shangguan",
       "title": "Overview of CSST",
       "type": "I"
@@ -323,8 +323,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 2",
-      "begin": "14:40",
-      "end": "15:00",
+      "begin": "14:10",
+      "end": "14:30",
       "name": "Hua Gao",
       "title": "Euclid Q1: Morphology-dependent structural sequences in the stellar haloes of central galaxies",
       "type": "C"
@@ -332,8 +332,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 2",
-      "begin": "15:00",
-      "end": "15:20",
+      "begin": "14:30",
+      "end": "14:50",
       "name": "Jiseop Shin",
       "title": "Environmental Quenching at Cosmic Noon: A Mass-dependent Quiescent Fraction Excess in XLSSC 122",
       "type": "C"
@@ -341,8 +341,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "",
-      "begin": "15:20",
-      "end": "03:40",
+      "begin": "14:50",
+      "end": "15:10",
       "name": "Break",
       "title": "",
       "type": ""
@@ -350,8 +350,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 2",
-      "begin": "15:00",
-      "end": "15:20",
+      "begin": "15:10",
+      "end": "15:30",
       "name": "Sungsoon Lim",
       "title": "TBD",
       "type": "C"
@@ -359,8 +359,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 2",
-      "begin": "15:20",
-      "end": "15:40",
+      "begin": "15:30",
+      "end": "15:50",
       "name": "Yutong Wang",
       "title": "Lopsidedness as a Tool to Probe Galaxy Evolution",
       "type": "C"
@@ -368,8 +368,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "Galaxy Evolution 2",
-      "begin": "15:40",
-      "end": "16:00",
+      "begin": "15:50",
+      "end": "16:10",
       "name": "Shinyu Kim",
       "title": "TBD",
       "type": "C"
@@ -377,8 +377,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "",
-      "begin": "16:00",
-      "end": "16:20",
+      "begin": "16:10",
+      "end": "16:30",
       "name": "Break",
       "title": "",
       "type": ""
@@ -386,8 +386,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "High-z AGNs",
-      "begin": "16:20",
-      "end": "16:40",
+      "begin": "16:30",
+      "end": "16:50",
       "name": "Chang-Hao Chen",
       "title": "TBD",
       "type": "C"
@@ -395,8 +395,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "High-z AGNs",
-      "begin": "16:40",
-      "end": "17:00",
+      "begin": "16:50",
+      "end": "17:10",
       "name": "Zhongyi Zhang",
       "title": "Galaxy Environment Research of Little Red Dots.",
       "type": "C"
@@ -404,8 +404,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "High-z AGNs",
-      "begin": "17:00",
-      "end": "17:20",
+      "begin": "17:10",
+      "end": "17:30",
       "name": "Yunyi Choi",
       "title": "The Luminosity Function of UV-Selected Unobscured Quasars at z ∼ 5: A Deep Learning Selection and Gemini/GMOS Confirmation",
       "type": "C"
@@ -413,8 +413,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2026-02-01",
       "topic": "High-z AGNs",
-      "begin": "17:20",
-      "end": "17:40",
+      "begin": "17:30",
+      "end": "17:50",
       "name": "Ruancun Li",
       "title": "Resolve high-redshift quasars with GRAVITY+",
       "type": "C"
