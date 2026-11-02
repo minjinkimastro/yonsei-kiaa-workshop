@@ -231,7 +231,7 @@ window.WORKSHOP_DATA = {
   ],
   "program": [
     {
-      "date": "2026-01-31",
+      "date": "2027-01-31",
       "topic": "",
       "begin": "15:00",
       "end": "18:00",
@@ -240,7 +240,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "",
       "begin": "09:20",
       "end": "09:30",
@@ -249,7 +249,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 1",
       "begin": "09:30",
       "end": "10:10",
@@ -258,7 +258,7 @@ window.WORKSHOP_DATA = {
       "type": "I"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 1",
       "begin": "10:10",
       "end": "10:30",
@@ -267,7 +267,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 1",
       "begin": "10:30",
       "end": "10:50",
@@ -276,7 +276,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "",
       "begin": "10:50",
       "end": "11:10",
@@ -285,7 +285,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 1",
       "begin": "11:10",
       "end": "11:40",
@@ -294,7 +294,7 @@ window.WORKSHOP_DATA = {
       "type": "I"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 1",
       "begin": "11:40",
       "end": "12:00",
@@ -303,7 +303,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "",
       "begin": "12:00",
       "end": "13:30",
@@ -312,7 +312,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 2",
       "begin": "13:30",
       "end": "14:10",
@@ -321,7 +321,7 @@ window.WORKSHOP_DATA = {
       "type": "I"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 2",
       "begin": "14:10",
       "end": "14:30",
@@ -330,7 +330,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 2",
       "begin": "14:30",
       "end": "14:50",
@@ -339,7 +339,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "",
       "begin": "14:50",
       "end": "15:10",
@@ -348,7 +348,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 2",
       "begin": "15:10",
       "end": "15:30",
@@ -357,7 +357,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 2",
       "begin": "15:30",
       "end": "15:50",
@@ -366,7 +366,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "Galaxy Evolution 2",
       "begin": "15:50",
       "end": "16:10",
@@ -375,7 +375,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "",
       "begin": "16:10",
       "end": "16:30",
@@ -384,7 +384,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "High-z AGNs",
       "begin": "16:30",
       "end": "16:50",
@@ -393,7 +393,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "High-z AGNs",
       "begin": "16:50",
       "end": "17:10",
@@ -402,7 +402,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "High-z AGNs",
       "begin": "17:10",
       "end": "17:30",
@@ -411,7 +411,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "High-z AGNs",
       "begin": "17:30",
       "end": "17:50",
@@ -420,7 +420,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-01",
+      "date": "2027-02-01",
       "topic": "",
       "begin": "18:00",
       "end": "",
@@ -429,7 +429,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "SPHEREx",
       "begin": "09:30",
       "end": "10:10",
@@ -438,7 +438,7 @@ window.WORKSHOP_DATA = {
       "type": "I"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "SPHEREx",
       "begin": "10:10",
       "end": "10:30",
@@ -447,7 +447,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "SPHEREx",
       "begin": "10:30",
       "end": "10:50",
@@ -456,7 +456,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "",
       "begin": "10:50",
       "end": "11:10",
@@ -465,7 +465,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "SPHEREx",
       "begin": "11:10",
       "end": "11:40",
@@ -474,7 +474,7 @@ window.WORKSHOP_DATA = {
       "type": "I"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "SPHEREx",
       "begin": "11:40",
       "end": "12:00",
@@ -483,7 +483,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "",
       "begin": "12:00",
       "end": "13:30",
@@ -492,7 +492,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "7DS",
       "begin": "13:30",
       "end": "14:10",
@@ -501,7 +501,7 @@ window.WORKSHOP_DATA = {
       "type": "I"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "7DS",
       "begin": "14:10",
       "end": "14:30",
@@ -510,7 +510,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "7DS",
       "begin": "14:30",
       "end": "14:50",
@@ -519,7 +519,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "",
       "begin": "14:50",
       "end": "15:10",
@@ -528,7 +528,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "AGNs 1",
       "begin": "15:10",
       "end": "15:30",
@@ -537,7 +537,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "AGNs 1",
       "begin": "15:30",
       "end": "15:50",
@@ -546,7 +546,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "",
       "begin": "15:50",
       "end": "16:30",
@@ -555,7 +555,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "Special Colloquium",
       "begin": "16:30",
       "end": "18:00",
@@ -564,7 +564,7 @@ window.WORKSHOP_DATA = {
       "type": "I"
     },
     {
-      "date": "2026-02-02",
+      "date": "2027-02-02",
       "topic": "",
       "begin": "18:00",
       "end": "",
@@ -573,7 +573,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-03",
+      "date": "2027-02-03",
       "topic": "AGNs & Variability",
       "begin": "09:30",
       "end": "09:50",
@@ -582,7 +582,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-03",
+      "date": "2027-02-03",
       "topic": "AGNs & Variability",
       "begin": "09:50",
       "end": "10:10",
@@ -591,7 +591,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-03",
+      "date": "2027-02-03",
       "topic": "AGNs & Variability",
       "begin": "10:10",
       "end": "10:30",
@@ -600,7 +600,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-03",
+      "date": "2027-02-03",
       "topic": "",
       "begin": "10:30",
       "end": "10:50",
@@ -609,7 +609,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-03",
+      "date": "2027-02-03",
       "topic": "AGNs & Variability",
       "begin": "10:50",
       "end": "11:10",
@@ -618,7 +618,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-03",
+      "date": "2027-02-03",
       "topic": "AGNs & Variability",
       "begin": "11:10",
       "end": "11:30",
@@ -627,7 +627,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-03",
+      "date": "2027-02-03",
       "topic": "AGNs & Variability",
       "begin": "11:30",
       "end": "11:50",
@@ -636,7 +636,7 @@ window.WORKSHOP_DATA = {
       "type": "C"
     },
     {
-      "date": "2026-02-03",
+      "date": "2027-02-03",
       "topic": "",
       "begin": "11:50",
       "end": "12:00",
@@ -645,7 +645,7 @@ window.WORKSHOP_DATA = {
       "type": ""
     },
     {
-      "date": "2026-02-03",
+      "date": "2027-02-03",
       "topic": "",
       "begin": "12:00",
       "end": "14:00",
