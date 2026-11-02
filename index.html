@@ -177,9 +177,11 @@
     const programRoot = document.getElementById('program-root');
     programRoot.innerHTML = Object.entries(byDate).map(([date, items]) => {
       const ordered = [...items].sort((a,b) => (a.begin || '99:99').localeCompare(b.begin || '99:99'));
+      const chairedTopics = new Set();
       const rows = ordered.map(x => {
         const isBreak = /break|lunch|banquet|dinner|coffee/i.test(`${x.name||''} ${x.title||''}`);
-        const topic = x.topic ? `<span class="session-topic">${x.topic}${chairs[x.topic] ? ` · Chair: ${chairs[x.topic]}` : ''}</span>` : '';
+        const topic = x.topic ? `<span class="session-topic">${x.topic}${chairs[x.topic] && !chairedTopics.has(x.topic) ? ` · Chair: ${chairs[x.topic]}` : ''}</span>` : '';
+        if (x.topic) chairedTopics.add(x.topic);
         return `<div class="program-row ${isBreak ? 'break-row':''}">
           <div class="time">${x.begin || ''}${x.end ? '–'+x.end : ''}</div>
           <div class="program-main">${topic}<strong>${x.name || x.title || 'Session'}</strong>${x.title && x.name ? `<span>${x.title}</span>` : ''}</div>
