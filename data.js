@@ -497,7 +497,7 @@ window.WORKSHOP_DATA = {
       "begin": "13:30",
       "end": "14:10",
       "name": "Myungshin Im",
-      "title": "Overview of 7-Dimenisonal sky survey",
+      "title": "7-Dimensional Sky Survey",
       "type": "I"
     },
     {
