@@ -163,13 +163,23 @@
     document.getElementById('invited-talks').innerHTML = invited.map(x => `
       <article><span class="talk-topic">${x.topic || 'Special Session'}</span><h3>${x.name}</h3><p>${x.title || 'Title to be announced'}</p></article>`).join('');
 
+    const chairs = {
+      'Galaxy Evolution 1': 'Sungsoon Lim',
+      'Galaxy Evolution 2': 'Taeyhun Kim',
+      'High-z AGNs': 'Lulu Zhang',
+      'SPHEREx': 'Ji Hoon Kim',
+      '7DS': 'Woong-seob Jeong',
+      'AGNs 1': 'Kyuseok Oh',
+      'Special Colloquium': 'Minjin Kim',
+      'AGNs & Variability': 'Jinyi Shangguan'
+    };
     const byDate = Object.groupBy ? Object.groupBy(D.program, x => x.date) : D.program.reduce((a,x)=>((a[x.date]??=[]).push(x),a),{});
     const programRoot = document.getElementById('program-root');
     programRoot.innerHTML = Object.entries(byDate).map(([date, items]) => {
       const ordered = [...items].sort((a,b) => (a.begin || '99:99').localeCompare(b.begin || '99:99'));
       const rows = ordered.map(x => {
         const isBreak = /break|lunch|banquet|dinner|coffee/i.test(`${x.name||''} ${x.title||''}`);
-        const topic = x.topic ? `<span class="session-topic">${x.topic}</span>` : '';
+        const topic = x.topic ? `<span class="session-topic">${x.topic}${chairs[x.topic] ? ` · Chair: ${chairs[x.topic]}` : ''}</span>` : '';
         return `<div class="program-row ${isBreak ? 'break-row':''}">
           <div class="time">${x.begin || ''}${x.end ? '–'+x.end : ''}</div>
           <div class="program-main">${topic}<strong>${x.name || x.title || 'Session'}</strong>${x.title && x.name ? `<span>${x.title}</span>` : ''}</div>
