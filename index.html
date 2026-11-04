@@ -206,13 +206,14 @@
 
     const chairs = {
       'Galaxy Evolution 1': 'Sungsoon Lim',
-      'Galaxy Evolution 2': 'Taeyhun Kim',
-      'High-z AGNs': 'Lulu Zhang',
+      'Galaxy Evolution 2': 'Zhaoyu Li',
+      'Galaxy Evolution 3': 'Taeyhun Kim',
       'SPHEREx': 'Ji Hoon Kim',
       '7DS': 'Woong-seob Jeong',
       'AGNs 1': 'Kyuseok Oh',
       'Special Colloquium': 'Minjin Kim',
-      'AGNs & Variability': 'Jinyi Shangguan'
+      'AGNs & Variability': 'Jinyi Shangguan',
+      'High-z AGNs': 'Lulu Zhang'
     };
     const byDate = Object.groupBy ? Object.groupBy(D.program, x => x.date) : D.program.reduce((a,x)=>((a[x.date]??=[]).push(x),a),{});
     const programRoot = document.getElementById('program-root');
