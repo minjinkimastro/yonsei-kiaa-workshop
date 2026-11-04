@@ -158,72 +158,90 @@ window.WORKSHOP_DATA = {
     },
     {
       "no": 27,
+      "name": "Si-Yue Yu",
+      "position": "Professor/Research Stff",
+      "affiliation": "Xiamen University"
+    },
+    {
+      "no": 28,
+      "name": "Sijia Li",
+      "position": "Postdoc",
+      "affiliation": "Shanghai Jiao Tong University"
+    },
+    {
+      "no": 29,
       "name": "Sukyoung Yi",
       "position": "Professor/Research Staff",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 28,
+      "no": 30,
       "name": "Sungsoon Lim",
       "position": "Professor/Research Staff",
       "affiliation": "Kangwon National Unversity"
     },
     {
-      "no": 29,
+      "no": 31,
       "name": "Suyeon Son",
       "position": "Postdoc",
       "affiliation": "KIAA"
     },
     {
-      "no": 30,
+      "no": 32,
       "name": "Tae-Keon Kim",
       "position": "Graduate",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 31,
+      "no": 33,
       "name": "Taehyun Kim",
       "position": "Postdoc",
       "affiliation": "Yonsei"
     },
     {
-      "no": 32,
+      "no": 34,
       "name": "Won-Hyeong Lee",
       "position": "Graduate",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 33,
+      "no": 35,
       "name": "Woong-Seob Jeong",
       "position": "Professor/Research Staff",
       "affiliation": "Korea Astronomy and Space Science Institute (KASI)"
     },
     {
-      "no": 34,
+      "no": 36,
       "name": "Yixiao Lyu",
       "position": "Graduate",
       "affiliation": "KIAA, Peking university"
     },
     {
-      "no": 35,
+      "no": 37,
       "name": "Yunyi Choi",
       "position": "Graduate",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 36,
+      "no": 38,
       "name": "Yutong Wang",
       "position": "Graduate",
       "affiliation": "Xiamen University"
     },
     {
-      "no": 37,
+      "no": 39,
+      "name": "Zhaoyu Li",
+      "position": "Professor/Research Stff",
+      "affiliation": "Shanghai Jiao Tong University"
+    },
+    {
+      "no": 40,
       "name": "Zhongyi Zhang",
       "position": "Undergraduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 38,
+      "no": 41,
       "name": "Ziyi Zhou",
       "position": "Graduate",
       "affiliation": "Peking University"
@@ -385,38 +403,29 @@ window.WORKSHOP_DATA = {
     },
     {
       "date": "2027-02-01",
-      "topic": "High-z AGNs",
+      "topic": "Galaxy Evolution 3",
       "begin": "16:30",
       "end": "16:50",
-      "name": "Chang-Hao Chen",
-      "title": "TBD",
+      "name": "Zhaoyu Li",
+      "title": "Influence of PSF effect on galaxy structure parameters",
       "type": "C"
     },
     {
       "date": "2027-02-01",
-      "topic": "High-z AGNs",
+      "topic": "Galaxy Evolution 3",
       "begin": "16:50",
       "end": "17:10",
-      "name": "Zhongyi Zhang",
-      "title": "Galaxy Environment Research of Little Red Dots.",
+      "name": "Si-Yue Yu",
+      "title": "The formation of vertical and radial structure in galaxies at cosmic noon",
       "type": "C"
     },
     {
       "date": "2027-02-01",
-      "topic": "High-z AGNs",
+      "topic": "Galaxy Evolution 3",
       "begin": "17:10",
       "end": "17:30",
-      "name": "Yunyi Choi",
-      "title": "The Luminosity Function of UV-Selected Unobscured Quasars at z ∼ 5: A Deep Learning Selection and Gemini/GMOS Confirmation",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "High-z AGNs",
-      "begin": "17:30",
-      "end": "17:50",
-      "name": "Ruancun Li",
-      "title": "Resolve high-redshift quasars with GRAVITY+",
+      "name": "Sijia Li",
+      "title": "From Global to Spatially Resolved Views of the Interstellar Medium: Electron Density and Metallicity Gradients with JWST",
       "type": "C"
     },
     {
@@ -486,6 +495,15 @@ window.WORKSHOP_DATA = {
       "date": "2027-02-02",
       "topic": "",
       "begin": "12:00",
+      "end": "12:10",
+      "name": "Group Photo",
+      "title": "",
+      "type": ""
+    },
+    {
+      "date": "2027-02-02",
+      "topic": "",
+      "begin": "12:10",
       "end": "13:30",
       "name": "Lunch",
       "title": "",
@@ -497,7 +515,7 @@ window.WORKSHOP_DATA = {
       "begin": "13:30",
       "end": "14:10",
       "name": "Myungshin Im",
-      "title": "7-Dimensional Sky Survey",
+      "title": "Overview of 7-Dimenisonal sky survey",
       "type": "I"
     },
     {
@@ -566,9 +584,9 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-02",
       "topic": "",
-      "begin": "18:00",
+      "begin": "18:30",
       "end": "",
-      "name": "",
+      "name": "Dinner",
       "title": "",
       "type": ""
     },
@@ -639,18 +657,54 @@ window.WORKSHOP_DATA = {
       "date": "2027-02-03",
       "topic": "",
       "begin": "11:50",
-      "end": "12:00",
-      "name": "Luis Ho",
-      "title": "Concluding Remarks",
+      "end": "13:30",
+      "name": "Lunch",
+      "title": "",
       "type": ""
     },
     {
       "date": "2027-02-03",
+      "topic": "High-z AGNs",
+      "begin": "13:30",
+      "end": "13:50",
+      "name": "Chang-Hao Chen",
+      "title": "TBD",
+      "type": "C"
+    },
+    {
+      "date": "2027-02-03",
+      "topic": "High-z AGNs",
+      "begin": "13:50",
+      "end": "14:10",
+      "name": "Zhongyi Zhang",
+      "title": "Galaxy Environment Research of Little Red Dots.",
+      "type": "C"
+    },
+    {
+      "date": "2027-02-03",
+      "topic": "High-z AGNs",
+      "begin": "14:10",
+      "end": "14:30",
+      "name": "Yunyi Choi",
+      "title": "The Luminosity Function of UV-Selected Unobscured Quasars at z ∼ 5: A Deep Learning Selection and Gemini/GMOS Confirmation",
+      "type": "C"
+    },
+    {
+      "date": "2027-02-03",
+      "topic": "High-z AGNs",
+      "begin": "14:30",
+      "end": "14:50",
+      "name": "Ruancun Li",
+      "title": "Resolve high-redshift quasars with GRAVITY+",
+      "type": "C"
+    },
+    {
+      "date": "2027-02-03",
       "topic": "",
-      "begin": "12:00",
-      "end": "14:00",
-      "name": "Lunch",
-      "title": "",
+      "begin": "14:50",
+      "end": "15:10",
+      "name": "Luis Ho",
+      "title": "Concluding Remarks",
       "type": ""
     }
   ]
