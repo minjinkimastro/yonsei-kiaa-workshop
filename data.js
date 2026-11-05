@@ -385,7 +385,7 @@ window.WORKSHOP_DATA = {
     },
     {
       "date": "2027-02-01",
-      "topic": "Galaxy Evolution 2",
+      "topic": "Galaxy Evolution 3",
       "begin": "15:50",
       "end": "16:10",
       "name": "Shinyu Kim",
@@ -412,7 +412,7 @@ window.WORKSHOP_DATA = {
     },
     {
       "date": "2027-02-01",
-      "topic": "Galaxy Evolution 3",
+      "topic": "Galaxy Evolution 2",
       "begin": "16:50",
       "end": "17:10",
       "name": "Si-Yue Yu",
@@ -559,8 +559,8 @@ window.WORKSHOP_DATA = {
       "topic": "AGNs 1",
       "begin": "15:30",
       "end": "15:50",
-      "name": "Mingyang Zhuang",
-      "title": "NEXUS: Transient Searches and First Results from Year One Observations",
+      "name": "Geonha Hwang",
+      "title": "Systematic comparison of AGN diagnostics in dwarf galaxies",
       "type": "C"
     },
     {
@@ -631,8 +631,8 @@ window.WORKSHOP_DATA = {
       "topic": "AGNs & Variability",
       "begin": "10:50",
       "end": "11:10",
-      "name": "Rui Zhou",
-      "title": "Measuring Massive Black hole Mass in JWST Spectra",
+      "name": "Mingyang Zhuang",
+      "title": "NEXUS: Transient Searches and First Results from Year One Observations",
       "type": "C"
     },
     {
@@ -640,8 +640,8 @@ window.WORKSHOP_DATA = {
       "topic": "AGNs & Variability",
       "begin": "11:10",
       "end": "11:30",
-      "name": "Geonha Hwang",
-      "title": "Systematic comparison of AGN diagnostics in dwarf galaxies",
+      "name": "Rui Zhou",
+      "title": "Measuring Massive Black hole Mass in JWST Spectra",
       "type": "C"
     },
     {
@@ -667,8 +667,8 @@ window.WORKSHOP_DATA = {
       "topic": "High-z AGNs",
       "begin": "13:30",
       "end": "13:50",
-      "name": "Chang-Hao Chen",
-      "title": "TBD",
+      "name": "Ruancun Li",
+      "title": "Resolve high-redshift quasars with GRAVITY+",
       "type": "C"
     },
     {
@@ -676,8 +676,8 @@ window.WORKSHOP_DATA = {
       "topic": "High-z AGNs",
       "begin": "13:50",
       "end": "14:10",
-      "name": "Zhongyi Zhang",
-      "title": "Galaxy Environment Research of Little Red Dots.",
+      "name": "Chang-Hao Chen",
+      "title": "TBD",
       "type": "C"
     },
     {
@@ -694,8 +694,8 @@ window.WORKSHOP_DATA = {
       "topic": "High-z AGNs",
       "begin": "14:30",
       "end": "14:50",
-      "name": "Ruancun Li",
-      "title": "Resolve high-redshift quasars with GRAVITY+",
+      "name": "Zhongyi Zhang",
+      "title": "Galaxy Environment Research of Little Red Dots.",
       "type": "C"
     },
     {
