@@ -260,6 +260,15 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-01",
       "topic": "",
+      "begin": "09:00",
+      "end": "09:20",
+      "name": "",
+      "title": "Registration",
+      "type": ""
+    },
+    {
+      "date": "2027-02-01",
+      "topic": "",
       "begin": "09:20",
       "end": "09:30",
       "name": "Jinyi Shangguan / Minjin Kim",
