@@ -272,7 +272,7 @@ window.WORKSHOP_DATA = {
       "begin": "09:30",
       "end": "10:10",
       "name": "Sukyoung Yi",
-      "title": "NewCluster",
+      "title": "The current state of the galaxy formation simulation and NewCluster",
       "type": "I"
     },
     {
