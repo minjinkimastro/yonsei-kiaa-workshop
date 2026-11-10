@@ -159,7 +159,7 @@ window.WORKSHOP_DATA = {
     {
       "no": 27,
       "name": "Si-Yue Yu",
-      "position": "Professor/Research Stff",
+      "position": "Professor/Research Staff",
       "affiliation": "Xiamen University"
     },
     {
@@ -231,7 +231,7 @@ window.WORKSHOP_DATA = {
     {
       "no": 39,
       "name": "Zhaoyu Li",
-      "position": "Professor/Research Stff",
+      "position": "Professor/Research Staff",
       "affiliation": "Shanghai Jiao Tong University"
     },
     {
