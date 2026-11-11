@@ -50,198 +50,204 @@ window.WORKSHOP_DATA = {
     },
     {
       "no": 9,
+      "name": "Jiazhao Li",
+      "position": "Graduate",
+      "affiliation": "Shanghai Jiao Tong University"
+    },
+    {
+      "no": 10,
       "name": "Jinyi Shangguan",
       "position": "Professor/Research Staff",
       "affiliation": "KIAA"
     },
     {
-      "no": 10,
+      "no": 11,
       "name": "Jiseop Shin",
       "position": "Graduate",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 11,
+      "no": 12,
       "name": "Jiwei Liao",
       "position": "Graduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 12,
+      "no": 13,
       "name": "Junwoo Jung",
       "position": "Graduate",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 13,
+      "no": 14,
       "name": "Kyuseok Oh",
       "position": "Professor/Research Staff",
       "affiliation": "Korea Astronomy and Space Science Institute"
     },
     {
-      "no": 14,
+      "no": 15,
       "name": "Lin Du",
       "position": "Postdoc",
       "affiliation": "KIAA"
     },
     {
-      "no": 15,
+      "no": 16,
       "name": "Linxin Chen",
       "position": "Graduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 16,
+      "no": 17,
       "name": "Luis C. Ho",
       "position": "Professor/Research Staff",
       "affiliation": "KIAA"
     },
     {
-      "no": 17,
+      "no": 18,
       "name": "Lulu Zhang",
       "position": "Professor/Research Staff",
       "affiliation": "The University of Texas at San Antonio"
     },
     {
-      "no": 18,
+      "no": 19,
       "name": "Mingyang Zhuang",
       "position": "Postdoc",
       "affiliation": "UIUC"
     },
     {
-      "no": 19,
+      "no": 20,
       "name": "Minjin Kim",
       "position": "Professor/Research Staff",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 20,
+      "no": 21,
       "name": "Myungshin Im",
       "position": "Professor/Research Staff",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 21,
+      "no": 22,
       "name": "Pinsong Zhao",
       "position": "Postdoc",
       "affiliation": "KIAA/PKU"
     },
     {
-      "no": 22,
+      "no": 23,
       "name": "Ruancun Li",
       "position": "Postdoc",
       "affiliation": "Max Planck Institute for Extraterrestrial Physics"
     },
     {
-      "no": 23,
+      "no": 24,
       "name": "Rui Zhou",
       "position": "Undergraduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 24,
+      "no": 25,
       "name": "Seongjae Kim",
       "position": "Postdoc",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 25,
+      "no": 26,
       "name": "Shinyu Kim",
       "position": "Graduate",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 26,
+      "no": 27,
       "name": "Shuochun Wang",
       "position": "Graduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 27,
+      "no": 28,
       "name": "Si-Yue Yu",
       "position": "Professor/Research Staff",
       "affiliation": "Xiamen University"
     },
     {
-      "no": 28,
+      "no": 29,
       "name": "Sijia Li",
       "position": "Postdoc",
       "affiliation": "Shanghai Jiao Tong University"
     },
     {
-      "no": 29,
+      "no": 30,
       "name": "Sukyoung Yi",
       "position": "Professor/Research Staff",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 30,
+      "no": 31,
       "name": "Sungsoon Lim",
       "position": "Professor/Research Staff",
       "affiliation": "Kangwon National Unversity"
     },
     {
-      "no": 31,
+      "no": 32,
       "name": "Suyeon Son",
       "position": "Postdoc",
       "affiliation": "KIAA"
     },
     {
-      "no": 32,
+      "no": 33,
       "name": "Tae-Keon Kim",
       "position": "Graduate",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 33,
+      "no": 34,
       "name": "Taehyun Kim",
       "position": "Postdoc",
       "affiliation": "Yonsei"
     },
     {
-      "no": 34,
+      "no": 35,
       "name": "Won-Hyeong Lee",
       "position": "Graduate",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 35,
+      "no": 36,
       "name": "Woong-Seob Jeong",
       "position": "Professor/Research Staff",
       "affiliation": "Korea Astronomy and Space Science Institute (KASI)"
     },
     {
-      "no": 36,
+      "no": 37,
       "name": "Yixiao Lyu",
       "position": "Graduate",
       "affiliation": "KIAA, Peking university"
     },
     {
-      "no": 37,
+      "no": 38,
       "name": "Yunyi Choi",
       "position": "Graduate",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 38,
+      "no": 39,
       "name": "Yutong Wang",
       "position": "Graduate",
       "affiliation": "Xiamen University"
     },
     {
-      "no": 39,
+      "no": 40,
       "name": "Zhaoyu Li",
       "position": "Professor/Research Staff",
       "affiliation": "Shanghai Jiao Tong University"
     },
     {
-      "no": 40,
+      "no": 41,
       "name": "Zhongyi Zhang",
       "position": "Undergraduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 41,
+      "no": 42,
       "name": "Ziyi Zhou",
       "position": "Graduate",
       "affiliation": "Peking University"
@@ -262,8 +268,8 @@ window.WORKSHOP_DATA = {
       "topic": "",
       "begin": "09:00",
       "end": "09:20",
-      "name": "",
-      "title": "Registration",
+      "name": "Registration",
+      "title": "",
       "type": ""
     },
     {
@@ -282,15 +288,16 @@ window.WORKSHOP_DATA = {
       "end": "10:10",
       "name": "Sukyoung Yi",
       "title": "The current state of the galaxy formation simulation and NewCluster",
-      "type": "I"
+      "type": "I",
+      "chair": "Sungsoon Lim"
     },
     {
       "date": "2027-02-01",
       "topic": "Galaxy Evolution 1",
       "begin": "10:10",
       "end": "10:30",
-      "name": "Yixiao Lyu",
-      "title": "Bar evolution in CEERS",
+      "name": "Jiazhao Li",
+      "title": "Observational Bias in Bar Fraction Evolution: Test with TNG50",
       "type": "C"
     },
     {
@@ -325,6 +332,15 @@ window.WORKSHOP_DATA = {
       "topic": "Galaxy Evolution 1",
       "begin": "11:40",
       "end": "12:00",
+      "name": "Yixiao Lyu",
+      "title": "Bar evolution in CEERS",
+      "type": "C"
+    },
+    {
+      "date": "2027-02-01",
+      "topic": "Galaxy Evolution 1",
+      "begin": "12:00",
+      "end": "12:20",
       "name": "Pinsong Zhao",
       "title": "GALFITX application to CEERS data",
       "type": "C"
@@ -332,7 +348,7 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-01",
       "topic": "",
-      "begin": "12:00",
+      "begin": "12:20",
       "end": "13:30",
       "name": "Lunch",
       "title": "",
@@ -345,7 +361,8 @@ window.WORKSHOP_DATA = {
       "end": "14:10",
       "name": "Jinyi Shangguan",
       "title": "Overview of CSST",
-      "type": "I"
+      "type": "I",
+      "chair": "Zhaoyu Li"
     },
     {
       "date": "2027-02-01",
@@ -417,7 +434,8 @@ window.WORKSHOP_DATA = {
       "end": "16:50",
       "name": "Zhaoyu Li",
       "title": "Influence of PSF effect on galaxy structure parameters",
-      "type": "C"
+      "type": "C",
+      "chair": "Taehyun Kim"
     },
     {
       "date": "2027-02-01",
@@ -453,7 +471,8 @@ window.WORKSHOP_DATA = {
       "end": "10:10",
       "name": "Woong-Seob Jeong",
       "title": "Spectral Mapping the Dusty Universe: Science Opportunities and Synergies",
-      "type": "I"
+      "type": "I",
+      "chair": "Ji Hoon Kim"
     },
     {
       "date": "2027-02-02",
@@ -525,7 +544,8 @@ window.WORKSHOP_DATA = {
       "end": "14:10",
       "name": "Myungshin Im",
       "title": "Overview of 7-Dimenisonal sky survey",
-      "type": "I"
+      "type": "I",
+      "chair": "Woong-Seob Jeong"
     },
     {
       "date": "2027-02-02",
@@ -561,7 +581,8 @@ window.WORKSHOP_DATA = {
       "end": "15:30",
       "name": "Lulu Zhang",
       "title": "Probing AGN Feedback through Infrared Diagnostics with JWST Spectroscopy",
-      "type": "C"
+      "type": "C",
+      "chair": "Kyuseok Oh"
     },
     {
       "date": "2027-02-02",
@@ -606,7 +627,8 @@ window.WORKSHOP_DATA = {
       "end": "09:50",
       "name": "Suyeon Son",
       "title": "Optically Variable Type 2 AGNs",
-      "type": "C"
+      "type": "C",
+      "chair": "Jinyi Shangguan"
     },
     {
       "date": "2027-02-03",
@@ -678,7 +700,8 @@ window.WORKSHOP_DATA = {
       "end": "13:50",
       "name": "Ruancun Li",
       "title": "Resolve high-redshift quasars with GRAVITY+",
-      "type": "C"
+      "type": "C",
+      "chair": "Lulu Zhang"
     },
     {
       "date": "2027-02-03",
