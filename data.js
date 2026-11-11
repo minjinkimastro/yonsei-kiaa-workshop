@@ -1,282 +1,294 @@
 window.WORKSHOP_DATA = {
   "participants": [
     {
-      "no": 1,
-      "name": "Bomee Lee",
-      "position": "Professor/Research Staff",
-      "affiliation": "KASI"
+        "no": 1,
+        "name": "Ashraf Ayubinia",
+        "position": "Postdoc",
+        "affiliation": "Sejong University"
     },
     {
-      "no": 2,
-      "name": "Chang-Hao Chen",
-      "position": "Graduate",
-      "affiliation": "KIAA, Peking University"
+        "no": 2,
+        "name": "Bomee Lee",
+        "position": "Professor/Research Staff",
+        "affiliation": "KASI"
     },
     {
-      "no": 3,
-      "name": "Danhyeuk Seol",
-      "position": "Graduate",
-      "affiliation": "Seoul National University"
+        "no": 3,
+        "name": "Chang-Hao Chen",
+        "position": "Graduate",
+        "affiliation": "KIAA, Peking University"
     },
     {
-      "no": 4,
-      "name": "Dohee Kim",
-      "position": "Graduate",
-      "affiliation": "Yonsei University"
+        "no": 4,
+        "name": "Danhyeuk Seol",
+        "position": "Graduate",
+        "affiliation": "Seoul National University"
     },
     {
-      "no": 5,
-      "name": "Donghwan Hyun",
-      "position": "Graduate",
-      "affiliation": "Seoul National University (SNU)"
+        "no": 5,
+        "name": "Dohee Kim",
+        "position": "Graduate",
+        "affiliation": "Yonsei University"
     },
     {
-      "no": 6,
-      "name": "Dongseob Lee",
-      "position": "Graduate",
-      "affiliation": "Kyungpook National University"
+        "no": 6,
+        "name": "Donghwan Hyun",
+        "position": "Graduate",
+        "affiliation": "Seoul National University (SNU)"
     },
     {
-      "no": 7,
-      "name": "Eunsoo Jun",
-      "position": "Graduate",
-      "affiliation": "KASI"
+        "no": 7,
+        "name": "Dongseob Lee",
+        "position": "Graduate",
+        "affiliation": "Kyungpook National University"
     },
     {
-      "no": 8,
-      "name": "Geonha Hwang",
-      "position": "Undergraduate",
-      "affiliation": "Yonsei University (Department of Astronomy)"
+        "no": 8,
+        "name": "Eunsoo Jun",
+        "position": "Graduate",
+        "affiliation": "KASI"
     },
     {
-      "no": 9,
-      "name": "Hua Gao",
-      "position": "Postdoc",
-      "affiliation": "The University of Nottingham"
+        "no": 9,
+        "name": "Geonha Hwang",
+        "position": "Undergraduate",
+        "affiliation": "Yonsei University (Department of Astronomy)"
     },
     {
-      "no": 10,
-      "name": "Hyunjin Shim",
-      "position": "Professor/Research Staff",
-      "affiliation": "Kyungpook National University"
+        "no": 10,
+        "name": "Hua Gao",
+        "position": "Postdoc",
+        "affiliation": "The University of Nottingham"
     },
     {
-      "no": 11,
-      "name": "Jeong Hwan Lee",
-      "position": "Postdoc",
-      "affiliation": "Seoul National University"
+        "no": 11,
+        "name": "Hyunjin Shim",
+        "position": "Professor/Research Staff",
+        "affiliation": "Kyungpook National University"
     },
     {
-      "no": 12,
-      "name": "Ji Hoon Kim",
-      "position": "Professor/Research Staff",
-      "affiliation": "Seoul National University"
+        "no": 12,
+        "name": "Jeong Hwan Lee",
+        "position": "Postdoc",
+        "affiliation": "Seoul National University"
     },
     {
-      "no": 13,
-      "name": "Jiazhao Li",
-      "position": "Graduate",
-      "affiliation": "Shanghai Jiao Tong University"
+        "no": 13,
+        "name": "Ji Hoon Kim",
+        "position": "Professor/Research Staff",
+        "affiliation": "Seoul National University"
     },
     {
-      "no": 14,
-      "name": "Jinyi Shangguan",
-      "position": "Professor/Research Staff",
-      "affiliation": "KIAA"
+        "no": 14,
+        "name": "Jiazhao Li",
+        "position": "Graduate",
+        "affiliation": "Shanghai Jiao Tong University"
     },
     {
-      "no": 15,
-      "name": "Jiseop Shin",
-      "position": "Graduate",
-      "affiliation": "Seoul National University"
+        "no": 15,
+        "name": "Jinyi Shangguan",
+        "position": "Professor/Research Staff",
+        "affiliation": "KIAA"
     },
     {
-      "no": 16,
-      "name": "Jiwei Liao",
-      "position": "Graduate",
-      "affiliation": "Peking University"
+        "no": 16,
+        "name": "Jiseop Shin",
+        "position": "Graduate",
+        "affiliation": "Seoul National University"
     },
     {
-      "no": 17,
-      "name": "Junwoo Jung",
-      "position": "Graduate",
-      "affiliation": "Yonsei University"
+        "no": 17,
+        "name": "Jiwei Liao",
+        "position": "Graduate",
+        "affiliation": "Peking University"
     },
     {
-      "no": 18,
-      "name": "Kyuseok Oh",
-      "position": "Professor/Research Staff",
-      "affiliation": "Korea Astronomy and Space Science Institute"
+        "no": 18,
+        "name": "Junwoo Jung",
+        "position": "Graduate",
+        "affiliation": "Yonsei University"
     },
     {
-      "no": 19,
-      "name": "Lin Du",
-      "position": "Postdoc",
-      "affiliation": "KIAA"
+        "no": 19,
+        "name": "Kyuseok Oh",
+        "position": "Professor/Research Staff",
+        "affiliation": "Korea Astronomy and Space Science Institute"
     },
     {
-      "no": 20,
-      "name": "Linxin Chen",
-      "position": "Graduate",
-      "affiliation": "Peking University"
+        "no": 20,
+        "name": "Lin Du",
+        "position": "Postdoc",
+        "affiliation": "KIAA"
     },
     {
-      "no": 21,
-      "name": "Luis C. Ho",
-      "position": "Professor/Research Staff",
-      "affiliation": "KIAA"
+        "no": 21,
+        "name": "Linxin Chen",
+        "position": "Graduate",
+        "affiliation": "Peking University"
     },
     {
-      "no": 22,
-      "name": "Lulu Zhang",
-      "position": "Professor/Research Staff",
-      "affiliation": "The University of Texas at San Antonio"
+        "no": 22,
+        "name": "Luis C. Ho",
+        "position": "Professor/Research Staff",
+        "affiliation": "KIAA"
     },
     {
-      "no": 23,
-      "name": "Mingyang Zhuang",
-      "position": "Postdoc",
-      "affiliation": "UIUC"
+        "no": 23,
+        "name": "Lulu Zhang",
+        "position": "Professor/Research Staff",
+        "affiliation": "The University of Texas at San Antonio"
     },
     {
-      "no": 24,
-      "name": "Minjin Kim",
-      "position": "Professor/Research Staff",
-      "affiliation": "Yonsei University"
+        "no": 24,
+        "name": "Mingyang Zhuang",
+        "position": "Postdoc",
+        "affiliation": "UIUC"
     },
     {
-      "no": 25,
-      "name": "Myungshin Im",
-      "position": "Professor/Research Staff",
-      "affiliation": "Seoul National University"
+        "no": 25,
+        "name": "Minjin Kim",
+        "position": "Professor/Research Staff",
+        "affiliation": "Yonsei University"
     },
     {
-      "no": 26,
-      "name": "Pinsong Zhao",
-      "position": "Postdoc",
-      "affiliation": "KIAA/PKU"
+        "no": 26,
+        "name": "Myungshin Im",
+        "position": "Professor/Research Staff",
+        "affiliation": "Seoul National University"
     },
     {
-      "no": 27,
-      "name": "Ruancun Li",
-      "position": "Postdoc",
-      "affiliation": "Max Planck Institute for Extraterrestrial Physics"
+        "no": 27,
+        "name": "Pinsong Zhao",
+        "position": "Postdoc",
+        "affiliation": "KIAA/PKU"
     },
     {
-      "no": 28,
-      "name": "Rui Zhou",
-      "position": "Undergraduate",
-      "affiliation": "Peking University"
+        "no": 28,
+        "name": "Ruancun Li",
+        "position": "Postdoc",
+        "affiliation": "Max Planck Institute for Extraterrestrial Physics"
     },
     {
-      "no": 29,
-      "name": "Seongjae Kim",
-      "position": "Postdoc",
-      "affiliation": "Yonsei University"
+        "no": 29,
+        "name": "Rui Zhou",
+        "position": "Undergraduate",
+        "affiliation": "Peking University"
     },
     {
-      "no": 30,
-      "name": "Shinyu Kim",
-      "position": "Graduate",
-      "affiliation": "Yonsei University"
+        "no": 30,
+        "name": "Seongjae Kim",
+        "position": "Postdoc",
+        "affiliation": "Yonsei University"
     },
     {
-      "no": 31,
-      "name": "Shuochun Wang",
-      "position": "Graduate",
-      "affiliation": "Peking University"
+        "no": 31,
+        "name": "Shinyu Kim",
+        "position": "Graduate",
+        "affiliation": "Yonsei University"
     },
     {
-      "no": 32,
-      "name": "Si-Yue Yu",
-      "position": "Professor/Research Staff",
-      "affiliation": "Xiamen University"
+        "no": 32,
+        "name": "Shuochun Wang",
+        "position": "Graduate",
+        "affiliation": "Peking University"
     },
     {
-      "no": 33,
-      "name": "Sijia Li",
-      "position": "Postdoc",
-      "affiliation": "Shanghai Jiao Tong University"
+        "no": 33,
+        "name": "Si-Yue Yu",
+        "position": "Professor/Research Staff",
+        "affiliation": "Xiamen University"
     },
     {
-      "no": 34,
-      "name": "Sukyoung Yi",
-      "position": "Professor/Research Staff",
-      "affiliation": "Yonsei University"
+        "no": 34,
+        "name": "Sijia Li",
+        "position": "Postdoc",
+        "affiliation": "Shanghai Jiao Tong University"
     },
     {
-      "no": 35,
-      "name": "Sungsoon Lim",
-      "position": "Professor/Research Staff",
-      "affiliation": "Kangwon National Unversity"
+        "no": 35,
+        "name": "Sukyoung Yi",
+        "position": "Professor/Research Staff",
+        "affiliation": "Yonsei University"
     },
     {
-      "no": 36,
-      "name": "Suyeon Son",
-      "position": "Postdoc",
-      "affiliation": "KIAA"
+        "no": 36,
+        "name": "Sungsoon Lim",
+        "position": "Professor/Research Staff",
+        "affiliation": "Kangwon National Unversity"
     },
     {
-      "no": 37,
-      "name": "Tae-Keon Kim",
-      "position": "Graduate",
-      "affiliation": "Yonsei University"
+        "no": 37,
+        "name": "Suyeon Son",
+        "position": "Postdoc",
+        "affiliation": "KIAA"
     },
     {
-      "no": 38,
-      "name": "Taehyun Kim",
-      "position": "Postdoc",
-      "affiliation": "Yonsei"
+        "no": 38,
+        "name": "Tae-Keon Kim",
+        "position": "Graduate",
+        "affiliation": "Yonsei University"
     },
     {
-      "no": 39,
-      "name": "Won-Hyeong Lee",
-      "position": "Graduate",
-      "affiliation": "Seoul National University"
+        "no": 39,
+        "name": "Taehyun Kim",
+        "position": "Postdoc",
+        "affiliation": "Yonsei"
     },
     {
-      "no": 40,
-      "name": "Woong-Seob Jeong",
-      "position": "Professor/Research Staff",
-      "affiliation": "Korea Astronomy and Space Science Institute (KASI)"
+        "no": 40,
+        "name": "Won-Hyeong Lee",
+        "position": "Graduate",
+        "affiliation": "Seoul National University"
     },
     {
-      "no": 41,
-      "name": "Yixiao Lyu",
-      "position": "Graduate",
-      "affiliation": "KIAA, Peking university"
+        "no": 41,
+        "name": "Woong-Seob Jeong",
+        "position": "Professor/Research Staff",
+        "affiliation": "Korea Astronomy and Space Science Institute (KASI)"
     },
     {
-      "no": 42,
-      "name": "Yunyi Choi",
-      "position": "Graduate",
-      "affiliation": "Seoul National University"
+        "no": 42,
+        "name": "Yixiao Lyu",
+        "position": "Graduate",
+        "affiliation": "KIAA, Peking university"
     },
     {
-      "no": 43,
-      "name": "Yutong Wang",
-      "position": "Graduate",
-      "affiliation": "Xiamen University"
+        "no": 43,
+        "name": "Yongjung Kim",
+        "position": "Professor/Research Staff",
+        "affiliation": "Sejong University"
     },
     {
-      "no": 44,
-      "name": "Zhaoyu Li",
-      "position": "Professor/Research Staff",
-      "affiliation": "Shanghai Jiao Tong University"
+        "no": 44,
+        "name": "Yunyi Choi",
+        "position": "Graduate",
+        "affiliation": "Seoul National University"
     },
     {
-      "no": 45,
-      "name": "Zhongyi Zhang",
-      "position": "Undergraduate",
-      "affiliation": "Peking University"
+        "no": 45,
+        "name": "Yutong Wang",
+        "position": "Graduate",
+        "affiliation": "Xiamen University"
     },
     {
-      "no": 46,
-      "name": "Ziyi Zhou",
-      "position": "Graduate",
-      "affiliation": "Peking University"
+        "no": 46,
+        "name": "Zhaoyu Li",
+        "position": "Professor/Research Staff",
+        "affiliation": "Shanghai Jiao Tong University"
+    },
+    {
+        "no": 47,
+        "name": "Zhongyi Zhang",
+        "position": "Undergraduate",
+        "affiliation": "Peking University"
+    },
+    {
+        "no": 48,
+        "name": "Ziyi Zhou",
+        "position": "Graduate",
+        "affiliation": "Peking University"
     }
-  ],
+],
   "program": [
     {
       "date": "2027-01-31",
