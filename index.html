@@ -10,10 +10,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
   <style>
-    .session-venue-notice { margin: 1rem 0 1.5rem; padding: 1.25rem 1.5rem; border: 2px solid #a34e00; border-left-width: 7px; border-radius: 12px; background: #fff4df; color: #452600; line-height: 1.65; }
-    .session-venue-notice h3 { margin: 0 0 .5rem; color: #703600; }
-    .session-venue-notice p { margin: .4rem 0; }
-    .session-venue-notice a { color: #713500; font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+    .hands-on-venue { display: block; margin-top: .6rem; padding: .65rem .85rem; border: 1px solid #c5d9ee; border-left: 4px solid #245b91; border-radius: 7px; background: #edf5fd; color: #173f68; font-size: .9rem; line-height: 1.5; }
+    .hands-on-venue a { color: #174f87; font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
   </style>
 </head>
 <body>
@@ -111,12 +109,6 @@
           <div><p class="kicker">Program</p><h2>Workshop schedule</h2></div>
           <p class="edit-note"></p>
         </div>
-        <aside class="session-venue-notice" aria-labelledby="hands-on-venue-title">
-          <h3 id="hands-on-venue-title">First-day hands-on session: separate venue</h3>
-          <p>The hands-on session on <strong>Sunday, January 31, 2027</strong> will be held in <strong>B102, Science Hall, Yonsei University</strong>.</p>
-          <p><strong>This session takes place in a different building from the main workshop venue, IBK Hall (B1), Baekyang Nuri.</strong> Please go to Science Hall for the hands-on session.</p>
-          <p><a href="science-hall-directions.html">Directions to Science Hall and room B102 →</a></p>
-        </aside>
         <div id="program-root"></div>
       </div>
     </section>
@@ -313,12 +305,14 @@
       const ordered = [...items].sort((a,b) => (a.begin || '99:99').localeCompare(b.begin || '99:99'));
       const chairedTopics = new Set();
       const rows = ordered.map(x => {
+        const isHandsOn = date === '2027-01-31' && /^15:00/.test(x.begin || '') && /hands?[\s‐‑–—-]*on|galfit/i.test(`${x.topic || ''} ${x.name || ''} ${x.title || ''}`);
+        const venueNote = isHandsOn ? '<span class="hands-on-venue"><b>Venue: B102, Science Hall, Yonsei University.</b><br>Held separately from IBK Hall, Baekyang Nuri. <a href="science-hall-directions.html">Directions →</a></span>' : '';
         const isBreak = /break|lunch|banquet|dinner|coffee/i.test(`${x.name||''} ${x.title||''}`);
         const topic = x.topic ? `<span class="session-topic">${x.topic}${chairs[x.topic] && !chairedTopics.has(x.topic) ? ` · Chair: ${chairs[x.topic]}` : ''}</span>` : '';
         if (x.topic) chairedTopics.add(x.topic);
         return `<div class="program-row ${isBreak ? 'break-row':''}">
           <div class="time">${x.begin || ''}${x.end ? '–'+x.end : ''}</div>
-          <div class="program-main">${topic}<strong>${x.name || x.title || 'Session'}</strong>${x.title && x.name ? `<span>${x.title}</span>` : ''}</div>
+          <div class="program-main">${topic}<strong>${x.name || x.title || 'Session'}</strong>${x.title && x.name ? `<span>${x.title}</span>` : ''}${venueNote}</div>
           <div class="badge ${x.type==='I'?'invited':''}">${x.type==='I'?'Invited':x.type==='C'?'Contributed':''}</div>
         </div>`;
       }).join('');
