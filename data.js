@@ -641,7 +641,7 @@ window.WORKSHOP_DATA = {
       "begin": "16:30",
       "end": "18:00",
       "name": "Luis Ho",
-      "title": "",
+      "title": "Supermassive Black Holes During the First Billion Years of Cosmic History",
       "type": "I"
     },
     {
