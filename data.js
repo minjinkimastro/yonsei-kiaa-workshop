@@ -543,7 +543,7 @@ window.WORKSHOP_DATA = {
       "begin": "13:30",
       "end": "14:10",
       "name": "Myungshin Im",
-      "title": "7-Dimenisonal sky survey",
+      "title": "7-Dimensional sky survey",
       "type": "I",
       "chair": "Woong-Seob Jeong"
     },
