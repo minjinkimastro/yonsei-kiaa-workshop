@@ -2,252 +2,276 @@ window.WORKSHOP_DATA = {
   "participants": [
     {
       "no": 1,
+      "name": "Bomee Lee",
+      "position": "Professor/Research Staff",
+      "affiliation": "KASI"
+    },
+    {
+      "no": 2,
       "name": "Chang-Hao Chen",
       "position": "Graduate",
       "affiliation": "KIAA, Peking University"
     },
     {
-      "no": 2,
+      "no": 3,
       "name": "Danhyeuk Seol",
       "position": "Graduate",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 3,
+      "no": 4,
       "name": "Dohee Kim",
       "position": "Graduate",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 4,
+      "no": 5,
       "name": "Donghwan Hyun",
       "position": "Graduate",
       "affiliation": "Seoul National University (SNU)"
     },
     {
-      "no": 5,
+      "no": 6,
+      "name": "Dongseob Lee",
+      "position": "Graduate",
+      "affiliation": "Kyungpook National University"
+    },
+    {
+      "no": 7,
+      "name": "Eunsoo Jun",
+      "position": "Graduate",
+      "affiliation": "KASI"
+    },
+    {
+      "no": 8,
       "name": "Geonha Hwang",
       "position": "Undergraduate",
       "affiliation": "Yonsei University (Department of Astronomy)"
     },
     {
-      "no": 6,
+      "no": 9,
       "name": "Hua Gao",
       "position": "Postdoc",
       "affiliation": "The University of Nottingham"
     },
     {
-      "no": 7,
+      "no": 10,
+      "name": "Hyunjin Shim",
+      "position": "Professor/Research Staff",
+      "affiliation": "Kyungpook National University"
+    },
+    {
+      "no": 11,
       "name": "Jeong Hwan Lee",
       "position": "Postdoc",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 8,
+      "no": 12,
       "name": "Ji Hoon Kim",
       "position": "Professor/Research Staff",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 9,
+      "no": 13,
       "name": "Jiazhao Li",
       "position": "Graduate",
       "affiliation": "Shanghai Jiao Tong University"
     },
     {
-      "no": 10,
+      "no": 14,
       "name": "Jinyi Shangguan",
       "position": "Professor/Research Staff",
       "affiliation": "KIAA"
     },
     {
-      "no": 11,
+      "no": 15,
       "name": "Jiseop Shin",
       "position": "Graduate",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 12,
+      "no": 16,
       "name": "Jiwei Liao",
       "position": "Graduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 13,
+      "no": 17,
       "name": "Junwoo Jung",
       "position": "Graduate",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 14,
+      "no": 18,
       "name": "Kyuseok Oh",
       "position": "Professor/Research Staff",
       "affiliation": "Korea Astronomy and Space Science Institute"
     },
     {
-      "no": 15,
+      "no": 19,
       "name": "Lin Du",
       "position": "Postdoc",
       "affiliation": "KIAA"
     },
     {
-      "no": 16,
+      "no": 20,
       "name": "Linxin Chen",
       "position": "Graduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 17,
+      "no": 21,
       "name": "Luis C. Ho",
       "position": "Professor/Research Staff",
       "affiliation": "KIAA"
     },
     {
-      "no": 18,
+      "no": 22,
       "name": "Lulu Zhang",
       "position": "Professor/Research Staff",
       "affiliation": "The University of Texas at San Antonio"
     },
     {
-      "no": 19,
+      "no": 23,
       "name": "Mingyang Zhuang",
       "position": "Postdoc",
       "affiliation": "UIUC"
     },
     {
-      "no": 20,
+      "no": 24,
       "name": "Minjin Kim",
       "position": "Professor/Research Staff",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 21,
+      "no": 25,
       "name": "Myungshin Im",
       "position": "Professor/Research Staff",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 22,
+      "no": 26,
       "name": "Pinsong Zhao",
       "position": "Postdoc",
       "affiliation": "KIAA/PKU"
     },
     {
-      "no": 23,
+      "no": 27,
       "name": "Ruancun Li",
       "position": "Postdoc",
       "affiliation": "Max Planck Institute for Extraterrestrial Physics"
     },
     {
-      "no": 24,
+      "no": 28,
       "name": "Rui Zhou",
       "position": "Undergraduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 25,
+      "no": 29,
       "name": "Seongjae Kim",
       "position": "Postdoc",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 26,
+      "no": 30,
       "name": "Shinyu Kim",
       "position": "Graduate",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 27,
+      "no": 31,
       "name": "Shuochun Wang",
       "position": "Graduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 28,
+      "no": 32,
       "name": "Si-Yue Yu",
       "position": "Professor/Research Staff",
       "affiliation": "Xiamen University"
     },
     {
-      "no": 29,
+      "no": 33,
       "name": "Sijia Li",
       "position": "Postdoc",
       "affiliation": "Shanghai Jiao Tong University"
     },
     {
-      "no": 30,
+      "no": 34,
       "name": "Sukyoung Yi",
       "position": "Professor/Research Staff",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 31,
+      "no": 35,
       "name": "Sungsoon Lim",
       "position": "Professor/Research Staff",
       "affiliation": "Kangwon National Unversity"
     },
     {
-      "no": 32,
+      "no": 36,
       "name": "Suyeon Son",
       "position": "Postdoc",
       "affiliation": "KIAA"
     },
     {
-      "no": 33,
+      "no": 37,
       "name": "Tae-Keon Kim",
       "position": "Graduate",
       "affiliation": "Yonsei University"
     },
     {
-      "no": 34,
+      "no": 38,
       "name": "Taehyun Kim",
       "position": "Postdoc",
       "affiliation": "Yonsei"
     },
     {
-      "no": 35,
+      "no": 39,
       "name": "Won-Hyeong Lee",
       "position": "Graduate",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 36,
+      "no": 40,
       "name": "Woong-Seob Jeong",
       "position": "Professor/Research Staff",
       "affiliation": "Korea Astronomy and Space Science Institute (KASI)"
     },
     {
-      "no": 37,
+      "no": 41,
       "name": "Yixiao Lyu",
       "position": "Graduate",
       "affiliation": "KIAA, Peking university"
     },
     {
-      "no": 38,
+      "no": 42,
       "name": "Yunyi Choi",
       "position": "Graduate",
       "affiliation": "Seoul National University"
     },
     {
-      "no": 39,
+      "no": 43,
       "name": "Yutong Wang",
       "position": "Graduate",
       "affiliation": "Xiamen University"
     },
     {
-      "no": 40,
+      "no": 44,
       "name": "Zhaoyu Li",
       "position": "Professor/Research Staff",
       "affiliation": "Shanghai Jiao Tong University"
     },
     {
-      "no": 41,
+      "no": 45,
       "name": "Zhongyi Zhang",
       "position": "Undergraduate",
       "affiliation": "Peking University"
     },
     {
-      "no": 42,
+      "no": 46,
       "name": "Ziyi Zhou",
       "position": "Graduate",
       "affiliation": "Peking University"
@@ -521,9 +545,18 @@ window.WORKSHOP_DATA = {
     },
     {
       "date": "2027-02-02",
-      "topic": "",
+      "topic": "SPHEREx",
       "begin": "12:00",
-      "end": "12:10",
+      "end": "12:20",
+      "name": "Bomee Lee",
+      "title": "High-z QSOs from SPHEREx",
+      "type": "C"
+    },
+    {
+      "date": "2027-02-02",
+      "topic": "",
+      "begin": "12:20",
+      "end": "12:30",
       "name": "Group Photo",
       "title": "",
       "type": ""
@@ -531,7 +564,7 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-02",
       "topic": "",
-      "begin": "12:10",
+      "begin": "12:30",
       "end": "13:30",
       "name": "Lunch",
       "title": "",
@@ -635,8 +668,8 @@ window.WORKSHOP_DATA = {
       "topic": "AGNs & Variability",
       "begin": "09:50",
       "end": "10:10",
-      "name": "Minjin Kim",
-      "title": "Probing the Central Structure of AGNs Through Variability",
+      "name": "Ziyi Zhou",
+      "title": "TBD",
       "type": "C"
     },
     {
@@ -644,6 +677,15 @@ window.WORKSHOP_DATA = {
       "topic": "AGNs & Variability",
       "begin": "10:10",
       "end": "10:30",
+      "name": "Minjin Kim",
+      "title": "Probing the Central Structure of AGNs Through Variability",
+      "type": "C"
+    },
+    {
+      "date": "2027-02-03",
+      "topic": "AGNs & Variability",
+      "begin": "10:30",
+      "end": "10:50",
       "name": "Linxin Chen",
       "title": "Study of one AGN dominated galaxy I ZW 1",
       "type": "C"
@@ -651,8 +693,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-03",
       "topic": "",
-      "begin": "10:30",
-      "end": "10:50",
+      "begin": "10:50",
+      "end": "11:10",
       "name": "Break",
       "title": "",
       "type": ""
@@ -660,8 +702,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-03",
       "topic": "AGNs & Variability",
-      "begin": "10:50",
-      "end": "11:10",
+      "begin": "11:10",
+      "end": "11:30",
       "name": "Mingyang Zhuang",
       "title": "NEXUS: Transient Searches and First Results from Year One Observations",
       "type": "C"
@@ -669,8 +711,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-03",
       "topic": "AGNs & Variability",
-      "begin": "11:10",
-      "end": "11:30",
+      "begin": "11:30",
+      "end": "11:50",
       "name": "Rui Zhou",
       "title": "Measuring Massive Black hole Mass in JWST Spectra",
       "type": "C"
@@ -678,8 +720,8 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-03",
       "topic": "AGNs & Variability",
-      "begin": "11:30",
-      "end": "11:50",
+      "begin": "11:50",
+      "end": "12:10",
       "name": "Jiwei Liao",
       "title": "A Host-Subtracted Spectral Energy Distribution for Unobscured AGNs",
       "type": "C"
@@ -687,7 +729,7 @@ window.WORKSHOP_DATA = {
     {
       "date": "2027-02-03",
       "topic": "",
-      "begin": "11:50",
+      "begin": "12:10",
       "end": "13:30",
       "name": "Lunch",
       "title": "",
