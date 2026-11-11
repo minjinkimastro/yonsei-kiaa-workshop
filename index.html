@@ -13,8 +13,7 @@
     .session-venue-notice { margin: 1rem 0 1.5rem; padding: 1.25rem 1.5rem; border: 2px solid #a34e00; border-left-width: 7px; border-radius: 12px; background: #fff4df; color: #452600; line-height: 1.65; }
     .session-venue-notice h3 { margin: 0 0 .5rem; color: #703600; }
     .session-venue-notice p { margin: .4rem 0; }
-    .session-venue-notice a, .hands-on-location a { color: #713500; font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
-    .hands-on-location { display: block; margin-top: .5rem; padding: .65rem .85rem; border-left: 4px solid #a34e00; background: #fff4df; color: #452600; }
+    .session-venue-notice a { color: #713500; font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
   </style>
 </head>
 <body>
@@ -112,6 +111,12 @@
           <div><p class="kicker">Program</p><h2>Workshop schedule</h2></div>
           <p class="edit-note"></p>
         </div>
+        <aside class="session-venue-notice" aria-labelledby="hands-on-venue-title">
+          <h3 id="hands-on-venue-title">First-day hands-on session: separate venue</h3>
+          <p>The hands-on session on <strong>Sunday, January 31, 2027</strong> will be held in <strong>B102, Science Hall, Yonsei University</strong>.</p>
+          <p><strong>This session takes place in a different building from the main workshop venue, IBK Hall (B1), Baekyang Nuri.</strong> Please go to Science Hall for the hands-on session.</p>
+          <p><a href="science-hall-directions.html">Directions to Science Hall and room B102 →</a></p>
+        </aside>
         <div id="program-root"></div>
       </div>
     </section>
@@ -303,25 +308,21 @@
       'High-z AGNs': 'Lulu Zhang'
     };
     const byDate = Object.groupBy ? Object.groupBy(D.program, x => x.date) : D.program.reduce((a,x)=>((a[x.date]??=[]).push(x),a),{});
-    const firstProgramDate = Object.keys(byDate).sort()[0];
     const programRoot = document.getElementById('program-root');
     programRoot.innerHTML = Object.entries(byDate).map(([date, items]) => {
       const ordered = [...items].sort((a,b) => (a.begin || '99:99').localeCompare(b.begin || '99:99'));
       const chairedTopics = new Set();
       const rows = ordered.map(x => {
-        const isHandsOn = date === firstProgramDate && /hands?[\s‐‑–—-]*on/i.test(`${x.topic || ''} ${x.name || ''} ${x.title || ''}`);
-        const handsOnLocation = isHandsOn ? '<span class="hands-on-location"><strong>Separate venue: B102, Science Hall, Yonsei University</strong> · <a href="science-hall-directions.html">Directions →</a></span>' : '';
         const isBreak = /break|lunch|banquet|dinner|coffee/i.test(`${x.name||''} ${x.title||''}`);
         const topic = x.topic ? `<span class="session-topic">${x.topic}${chairs[x.topic] && !chairedTopics.has(x.topic) ? ` · Chair: ${chairs[x.topic]}` : ''}</span>` : '';
         if (x.topic) chairedTopics.add(x.topic);
         return `<div class="program-row ${isBreak ? 'break-row':''}">
           <div class="time">${x.begin || ''}${x.end ? '–'+x.end : ''}</div>
-          <div class="program-main">${topic}<strong>${x.name || x.title || 'Session'}</strong>${x.title && x.name ? `<span>${x.title}</span>` : ''}${handsOnLocation}</div>
+          <div class="program-main">${topic}<strong>${x.name || x.title || 'Session'}</strong>${x.title && x.name ? `<span>${x.title}</span>` : ''}</div>
           <div class="badge ${x.type==='I'?'invited':''}">${x.type==='I'?'Invited':x.type==='C'?'Contributed':''}</div>
         </div>`;
       }).join('');
-      const dayVenueNotice = date === firstProgramDate ? '<div class="session-venue-notice"><strong>Hands-on session venue: B102, Science Hall, Yonsei University.</strong> This session is in a different building from IBK Hall, Baekyang Nuri. <a href="science-hall-directions.html">Directions to Science Hall →</a></div>' : '';
-      return `<section class="day"><div class="day-title"><span>${dateLabel(date)}</span></div>${dayVenueNotice}<div class="program-list">${rows}</div></section>`;
+      return `<section class="day"><div class="day-title"><span>${dateLabel(date)}</span></div><div class="program-list">${rows}</div></section>`;
     }).join('');
 
     const tbody=document.getElementById('participants-body'), count=document.getElementById('participant-count'), search=document.getElementById('participant-search');
