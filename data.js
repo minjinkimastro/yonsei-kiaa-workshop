@@ -483,7 +483,7 @@ window.WORKSHOP_DATA = {
     },
     {
       "date": "2027-02-01",
-      "topic": "Galaxy Evolution 3",
+      "topic": "Galaxy Evolution 2",
       "begin": "15:50",
       "end": "16:10",
       "name": "Shinyu Kim",
@@ -511,7 +511,7 @@ window.WORKSHOP_DATA = {
     },
     {
       "date": "2027-02-01",
-      "topic": "Galaxy Evolution 2",
+      "topic": "Galaxy Evolution 3",
       "begin": "16:50",
       "end": "17:10",
       "name": "Si-Yue Yu",
