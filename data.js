@@ -711,7 +711,7 @@ window.WORKSHOP_DATA = {
           "end": "15:55",
           "name": "Dohyeong Kim",
           "title": "Hot-Dust Covering Factors of Heavily Obscured Quasars",
-          "type": ""
+          "type": "C"
       },
       {
           "date": "2027-02-02",
@@ -820,7 +820,7 @@ window.WORKSHOP_DATA = {
           "end": "12:00",
           "name": "Hayeong Jeong",
           "title": "Infrared Properties of Type 1 AGNs from SPHEREx",
-          "type": ""
+          "type": "C"
       },
       {
           "date": "2027-02-03",
