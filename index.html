@@ -153,7 +153,7 @@
           <div>
             <p class="kicker">Venue</p>
             <h2>IBK Hall, Baekyang Nuri</h2>
-            <p class="lead">The main workshop venue is <strong>IBK Hall (B1), Baekyang Nuri</strong>, Yonsei University’s Sinchon campus in Seoul. <strong>The first-day hands-on session will be held separately in B102, Science Hall.</strong> <a href="science-hall-directions.html">View hands-on session directions →</a></p>
+            <p class="lead">The main workshop venue is <strong>IBK Hall (B1), Baekyang Nuri</strong>, Yonsei University’s Sinchon campus in Seoul. <strong>The first-day hands-on session and the Special Colloquium by Luis Ho will be held separately in B102, Science Hall.</strong> <a href="science-hall-directions.html">View Science Hall directions →</a></p>
             <div class="venue-facts">
               <div><span>Building</span><strong>Baekyang Nuri (The Commons)</strong></div>
               <div><span>Room</span><strong>IBK Hall · B1</strong></div>
@@ -316,7 +316,8 @@
       const chairedTopics = new Set();
       const rows = ordered.map(x => {
         const isHandsOn = date === '2027-01-31' && /^15:00/.test(x.begin || '') && /hands?[\s‐‑–—-]*on|galfit/i.test(`${x.topic || ''} ${x.name || ''} ${x.title || ''}`);
-        const venueNote = isHandsOn ? '<span class="hands-on-venue"><b>Venue: B102, Science Hall, Yonsei University.</b><br>Held separately from IBK Hall, Baekyang Nuri. <a href="science-hall-directions.html">Directions →</a></span>' : '';
+        const isSpecialColloquium = x.topic === 'Special Colloquium' && /luis(?: c\.)? ho/i.test(x.name || '');
+        const venueNote = (isHandsOn || isSpecialColloquium) ? '<span class="hands-on-venue"><b>Venue: B102, Science Hall, Yonsei University.</b><br>Held separately from IBK Hall, Baekyang Nuri. <a href="science-hall-directions.html">Directions →</a></span>' : '';
         const isBreak = /break|lunch|banquet|dinner|coffee/i.test(`${x.name||''} ${x.title||''}`);
         const topic = x.topic ? `<span class="session-topic">${x.topic}${chairs[x.topic] && !chairedTopics.has(x.topic) ? ` · Chair: ${chairs[x.topic]}` : ''}</span>` : '';
         if (x.topic) chairedTopics.add(x.topic);
