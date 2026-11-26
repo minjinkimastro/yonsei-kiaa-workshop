@@ -356,517 +356,553 @@ window.WORKSHOP_DATA = {
     }
 ],
   "program": [
-    {
-      "date": "2027-01-31",
-      "topic": "",
-      "begin": "15:00",
-      "end": "18:00",
-      "name": "",
-      "title": "Hands on session on GalfitX, GalfitS, GalfitT, GalSpec",
-      "type": ""
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "",
-      "begin": "09:00",
-      "end": "09:20",
-      "name": "Registration",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "",
-      "begin": "09:20",
-      "end": "09:30",
-      "name": "Jinyi Shangguan / Minjin Kim",
-      "title": "Opening Remarks",
-      "type": ""
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 1",
-      "begin": "09:30",
-      "end": "10:10",
-      "name": "Sukyoung Yi",
-      "title": "The current state of the galaxy formation simulation and NewCluster",
-      "type": "I",
-      "chair": "Sungsoon Lim"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 1",
-      "begin": "10:10",
-      "end": "10:30",
-      "name": "Jiazhao Li",
-      "title": "Observational Bias in Bar Fraction Evolution: Test with TNG50",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 1",
-      "begin": "10:30",
-      "end": "10:50",
-      "name": "Taehyun Kim",
-      "title": "The Interplay between Bar-driven Gas Motions and Star Formation",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "",
-      "begin": "10:50",
-      "end": "11:10",
-      "name": "Break",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 1",
-      "begin": "11:10",
-      "end": "11:40",
-      "name": "Jeong Hwan Lee",
-      "title": "High-redshift Galaxy Morphologies: from HR5 to JWST",
-      "type": "I"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 1",
-      "begin": "11:40",
-      "end": "12:00",
-      "name": "Yixiao Lyu",
-      "title": "Bar evolution in CEERS",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 1",
-      "begin": "12:00",
-      "end": "12:20",
-      "name": "Pinsong Zhao",
-      "title": "GALFITX application to CEERS data",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "",
-      "begin": "12:20",
-      "end": "13:30",
-      "name": "Lunch",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 2",
-      "begin": "13:30",
-      "end": "14:10",
-      "name": "Jinyi Shangguan",
-      "title": "Overview of CSST",
-      "type": "I",
-      "chair": "Zhaoyu Li"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 2",
-      "begin": "14:10",
-      "end": "14:30",
-      "name": "Hua Gao",
-      "title": "Euclid Q1: Morphology-dependent structural sequences in the stellar haloes of central galaxies",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 2",
-      "begin": "14:30",
-      "end": "14:50",
-      "name": "Jiseop Shin",
-      "title": "Environmental Quenching at Cosmic Noon: A Mass-dependent Quiescent Fraction Excess in XLSSC 122",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "",
-      "begin": "14:50",
-      "end": "15:10",
-      "name": "Break",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 2",
-      "begin": "15:10",
-      "end": "15:30",
-      "name": "Sungsoon Lim",
-      "title": "TBD",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 2",
-      "begin": "15:30",
-      "end": "15:50",
-      "name": "Yutong Wang",
-      "title": "Lopsidedness as a Tool to Probe Galaxy Evolution",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 2",
-      "begin": "15:50",
-      "end": "16:10",
-      "name": "Shinyu Kim",
-      "title": "TBD",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "",
-      "begin": "16:10",
-      "end": "16:30",
-      "name": "Break",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 3",
-      "begin": "16:30",
-      "end": "16:50",
-      "name": "Zhaoyu Li",
-      "title": "Influence of PSF effect on galaxy structure parameters",
-      "type": "C",
-      "chair": "Taehyun Kim"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 3",
-      "begin": "16:50",
-      "end": "17:10",
-      "name": "Si-Yue Yu",
-      "title": "The formation of vertical and radial structure in galaxies at cosmic noon",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "Galaxy Evolution 3",
-      "begin": "17:10",
-      "end": "17:30",
-      "name": "Sijia Li",
-      "title": "From Global to Spatially Resolved Views of the Interstellar Medium: Electron Density and Metallicity Gradients with JWST",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-01",
-      "topic": "",
-      "begin": "18:00",
-      "end": "",
-      "name": "Banquet",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "SPHEREx",
-      "begin": "09:30",
-      "end": "10:10",
-      "name": "Woong-Seob Jeong",
-      "title": "Spectral Mapping the Dusty Universe: Science Opportunities and Synergies",
-      "type": "I",
-      "chair": "Ji Hoon Kim"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "SPHEREx",
-      "begin": "10:10",
-      "end": "10:30",
-      "name": "Seongjae Kim",
-      "title": "Obscured Type 1 AGNs at Cosmic Noon with SPHEREx",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "SPHEREx",
-      "begin": "10:30",
-      "end": "10:50",
-      "name": "Junwoo Jung",
-      "title": "Analysis of PAH features of nearby galaxies using spatially resolved images from SPHEREx",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "",
-      "begin": "10:50",
-      "end": "11:10",
-      "name": "Break",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "SPHEREx",
-      "begin": "11:10",
-      "end": "11:40",
-      "name": "Kyuseok Oh",
-      "title": "SPHEREx Near-Infrared Spectrophotometry of Hot Dust in Swift-BAT AGN",
-      "type": "I"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "SPHEREx",
-      "begin": "11:40",
-      "end": "12:00",
-      "name": "Minjin Kim",
-      "title": "A UV-to-Near-infrared QSO Composite Spectrum from the SPHEREx",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "SPHEREx",
-      "begin": "12:00",
-      "end": "12:20",
-      "name": "Bomee Lee",
-      "title": "High-z QSOs from SPHEREx",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "",
-      "begin": "12:20",
-      "end": "12:30",
-      "name": "Group Photo",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "",
-      "begin": "12:30",
-      "end": "13:30",
-      "name": "Lunch",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "7DS",
-      "begin": "13:30",
-      "end": "14:10",
-      "name": "Myungshin Im",
-      "title": "7-Dimensional sky survey",
-      "type": "I",
-      "chair": "Woong-Seob Jeong"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "7DS",
-      "begin": "14:10",
-      "end": "14:30",
-      "name": "Won-Hyeong Lee",
-      "title": "Spatially Resolved Spectrophotometry of Nearby Late-type Galaxy NGC 3627 via 7-Dimensional Telescope and SPHEREx",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "7DS",
-      "begin": "14:30",
-      "end": "14:50",
-      "name": "Danhyeuk Seol",
-      "title": "7DS Search of Quasars at Low Galactic Latitude",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "",
-      "begin": "14:50",
-      "end": "15:10",
-      "name": "Break",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "AGNs 1",
-      "begin": "15:10",
-      "end": "15:30",
-      "name": "Lulu Zhang",
-      "title": "Probing AGN Feedback through Infrared Diagnostics with JWST Spectroscopy",
-      "type": "C",
-      "chair": "Kyuseok Oh"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "AGNs 1",
-      "begin": "15:30",
-      "end": "15:50",
-      "name": "Geonha Hwang",
-      "title": "Systematic comparison of AGN diagnostics in dwarf galaxies",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "AGNs 1",
-      "begin": "15:50",
-      "end": "16:10",
-      "name": "Dohyeong Kim",
-      "title": "Hot-Dust Covering Factors of Heavily Obscured Quasars",
-      "type": ""
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "",
-      "begin": "16:10",
-      "end": "16:30",
-      "name": "",
-      "title": "Discussion",
-      "type": ""
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "Special Colloquium",
-      "begin": "16:30",
-      "end": "18:00",
-      "name": "Luis Ho",
-      "title": "Supermassive Black Holes During the First Billion Years of Cosmic History",
-      "type": "I"
-    },
-    {
-      "date": "2027-02-02",
-      "topic": "",
-      "begin": "18:30",
-      "end": "",
-      "name": "Dinner",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "AGNs & Variability",
-      "begin": "09:30",
-      "end": "09:50",
-      "name": "Suyeon Son",
-      "title": "Optically Variable Type 2 AGNs",
-      "type": "C",
-      "chair": "Jinyi Shangguan"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "AGNs & Variability",
-      "begin": "09:50",
-      "end": "10:10",
-      "name": "Ziyi Zhou",
-      "title": "TBD",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "AGNs & Variability",
-      "begin": "10:10",
-      "end": "10:30",
-      "name": "Minjin Kim",
-      "title": "Probing the Central Structure of AGNs Through Variability",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "AGNs & Variability",
-      "begin": "10:30",
-      "end": "10:50",
-      "name": "Linxin Chen",
-      "title": "Study of one AGN dominated galaxy I ZW 1",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "",
-      "begin": "10:50",
-      "end": "11:10",
-      "name": "Break",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "AGNs & Variability",
-      "begin": "11:10",
-      "end": "11:30",
-      "name": "Mingyang Zhuang",
-      "title": "NEXUS: Transient Searches and First Results from Year One Observations",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "AGNs & Variability",
-      "begin": "11:30",
-      "end": "11:50",
-      "name": "Rui Zhou",
-      "title": "Measuring Massive Black hole Mass in JWST Spectra",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "AGNs & Variability",
-      "begin": "11:50",
-      "end": "12:10",
-      "name": "Jiwei Liao",
-      "title": "A Host-Subtracted Spectral Energy Distribution for Unobscured AGNs",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "",
-      "begin": "12:10",
-      "end": "13:30",
-      "name": "Lunch",
-      "title": "",
-      "type": ""
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "High-z AGNs",
-      "begin": "13:30",
-      "end": "13:50",
-      "name": "Ruancun Li",
-      "title": "Resolve high-redshift quasars with GRAVITY+",
-      "type": "C",
-      "chair": "Lulu Zhang"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "High-z AGNs",
-      "begin": "13:50",
-      "end": "14:10",
-      "name": "Chang-Hao Chen",
-      "title": "TBD",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "High-z AGNs",
-      "begin": "14:10",
-      "end": "14:30",
-      "name": "Yunyi Choi",
-      "title": "The Luminosity Function of UV-Selected Unobscured Quasars at z ∼ 5: A Deep Learning Selection and Gemini/GMOS Confirmation",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "High-z AGNs",
-      "begin": "14:30",
-      "end": "14:50",
-      "name": "Zhongyi Zhang",
-      "title": "Galaxy Environment Research of Little Red Dots.",
-      "type": "C"
-    },
-    {
-      "date": "2027-02-03",
-      "topic": "",
-      "begin": "14:50",
-      "end": "15:10",
-      "name": "Luis Ho",
-      "title": "Concluding Remarks",
-      "type": ""
-    }
+      {
+          "date": "2027-01-31",
+          "topic": "",
+          "begin": "15:00",
+          "end": "18:00",
+          "name": "",
+          "title": "Hands on session on GalfitX, GalfitS, GalfitT, GalSpec",
+          "type": ""
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "",
+          "begin": "09:00",
+          "end": "09:20",
+          "name": "Registration",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "",
+          "begin": "09:20",
+          "end": "09:30",
+          "name": "Jinyi Shangguan / Minjin Kim",
+          "title": "Opening Remarks",
+          "type": ""
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 1",
+          "begin": "09:30",
+          "end": "10:10",
+          "name": "Sukyoung Yi",
+          "title": "The current state of the galaxy formation simulation and NewCluster",
+          "type": "I",
+          "chair": "Sungsoon Lim"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 1",
+          "begin": "10:10",
+          "end": "10:25",
+          "name": "Jiazhao Li",
+          "title": "Observational Bias in Bar Fraction Evolution: Test with TNG50",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 1",
+          "begin": "10:25",
+          "end": "10:40",
+          "name": "Taehyun Kim",
+          "title": "The Interplay between Bar-driven Gas Motions and Star Formation",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "",
+          "begin": "10:40",
+          "end": "11:00",
+          "name": "Break",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 1",
+          "begin": "11:00",
+          "end": "11:30",
+          "name": "Jeong Hwan Lee",
+          "title": "High-redshift Galaxy Morphologies: from HR5 to JWST",
+          "type": "I"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 1",
+          "begin": "11:30",
+          "end": "11:45",
+          "name": "Yixiao Lyu",
+          "title": "Bar evolution in CEERS",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 1",
+          "begin": "11:45",
+          "end": "12:00",
+          "name": "Pinsong Zhao",
+          "title": "GALFITX application to CEERS data",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "",
+          "begin": "12:00",
+          "end": "13:30",
+          "name": "Lunch",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 2",
+          "begin": "13:30",
+          "end": "14:10",
+          "name": "Jinyi Shangguan",
+          "title": "Overview of CSST",
+          "type": "I",
+          "chair": "Zhaoyu Li"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 2",
+          "begin": "14:10",
+          "end": "14:25",
+          "name": "Hua Gao",
+          "title": "Euclid Q1: Morphology-dependent structural sequences in the stellar haloes of central galaxies",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 2",
+          "begin": "14:25",
+          "end": "14:40",
+          "name": "Jiseop Shin",
+          "title": "Environmental Quenching at Cosmic Noon: A Mass-dependent Quiescent Fraction Excess in XLSSC 122",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "",
+          "begin": "14:40",
+          "end": "15:10",
+          "name": "Break",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 2",
+          "begin": "15:10",
+          "end": "15:30",
+          "name": "Sungsoon Lim",
+          "title": "TBD",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 2",
+          "begin": "15:30",
+          "end": "15:45",
+          "name": "Yutong Wang",
+          "title": "Lopsidedness as a Tool to Probe Galaxy Evolution",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 3",
+          "begin": "15:45",
+          "end": "16:00",
+          "name": "Shinyu Kim",
+          "title": "TBD",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "",
+          "begin": "16:00",
+          "end": "16:20",
+          "name": "Break",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 3",
+          "begin": "16:20",
+          "end": "16:40",
+          "name": "Zhaoyu Li",
+          "title": "Influence of PSF effect on galaxy structure parameters",
+          "type": "C",
+          "chair": "Taehyun Kim"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 2",
+          "begin": "16:40",
+          "end": "16:55",
+          "name": "Si-Yue Yu",
+          "title": "The formation of vertical and radial structure in galaxies at cosmic noon",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "Galaxy Evolution 3",
+          "begin": "16:55",
+          "end": "17:10",
+          "name": "Sijia Li",
+          "title": "From Global to Spatially Resolved Views of the Interstellar Medium: Electron Density and Metallicity Gradients with JWST",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-01",
+          "topic": "",
+          "begin": "18:00",
+          "end": "",
+          "name": "Banquet",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "SPHEREx",
+          "begin": "09:30",
+          "end": "10:10",
+          "name": "Woong-Seob Jeong",
+          "title": "Spectral Mapping the Dusty Universe: Science Opportunities and Synergies",
+          "type": "I",
+          "chair": "Ji Hoon Kim"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "SPHEREx",
+          "begin": "10:10",
+          "end": "10:25",
+          "name": "Seongjae Kim",
+          "title": "Obscured Type 1 AGNs at Cosmic Noon with SPHEREx",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "SPHEREx",
+          "begin": "10:25",
+          "end": "10:40",
+          "name": "Junwoo Jung",
+          "title": "Analysis of PAH features of nearby galaxies using spatially resolved images from SPHEREx",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "",
+          "begin": "10:40",
+          "end": "11:10",
+          "name": "Break",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "SPHEREx",
+          "begin": "11:10",
+          "end": "11:40",
+          "name": "Kyuseok Oh",
+          "title": "SPHEREx Near-Infrared Spectrophotometry of Hot Dust in Swift-BAT AGN",
+          "type": "I"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "SPHEREx",
+          "begin": "11:40",
+          "end": "11:55",
+          "name": "Minjin Kim",
+          "title": "A UV-to-Near-infrared QSO Composite Spectrum from the SPHEREx",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "SPHEREx",
+          "begin": "11:55",
+          "end": "12:10",
+          "name": "Bomee Lee",
+          "title": "High-z QSOs from SPHEREx",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "",
+          "begin": "12:10",
+          "end": "12:20",
+          "name": "Group Photo",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "",
+          "begin": "12:20",
+          "end": "13:30",
+          "name": "Lunch",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "7DS",
+          "begin": "13:30",
+          "end": "14:10",
+          "name": "Myungshin Im",
+          "title": "7-Dimensional sky survey",
+          "type": "I",
+          "chair": "Woong-Seob Jeong"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "7DS",
+          "begin": "14:10",
+          "end": "14:25",
+          "name": "Won-Hyeong Lee",
+          "title": "Spatially Resolved Spectrophotometry of Nearby Late-type Galaxy NGC 3627 via 7-Dimensional Telescope and SPHEREx",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "7DS",
+          "begin": "14:25",
+          "end": "14:40",
+          "name": "Danhyeuk Seol",
+          "title": "7DS Search of Quasars at Low Galactic Latitude",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "",
+          "begin": "14:40",
+          "end": "15:00",
+          "name": "Break",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "AGNs 1",
+          "begin": "15:00",
+          "end": "15:20",
+          "name": "Lulu Zhang",
+          "title": "Probing AGN Feedback through Infrared Diagnostics with JWST Spectroscopy",
+          "type": "C",
+          "chair": "Kyuseok Oh"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "AGNs 1",
+          "begin": "15:20",
+          "end": "15:35",
+          "name": "Geonha Hwang",
+          "title": "Systematic comparison of AGN diagnostics in dwarf galaxies",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "AGNs 1",
+          "begin": "15:35",
+          "end": "15:55",
+          "name": "Dohyeong Kim",
+          "title": "Hot-Dust Covering Factors of Heavily Obscured Quasars",
+          "type": ""
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "",
+          "begin": "15:55",
+          "end": "16:30",
+          "name": "",
+          "title": "Discussion",
+          "type": ""
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "Special Colloquium",
+          "begin": "16:30",
+          "end": "18:00",
+          "name": "Luis Ho",
+          "title": "Supermassive Black Holes During the First Billion Years of Cosmic History",
+          "type": "I"
+      },
+      {
+          "date": "2027-02-02",
+          "topic": "",
+          "begin": "18:30",
+          "end": "",
+          "name": "Dinner",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGN Variability",
+          "begin": "09:30",
+          "end": "09:50",
+          "name": "Mingyang Zhuang",
+          "title": "NEXUS: Transient Searches and First Results from Year One Observations",
+          "type": "C",
+          "chair": "Jinyi Shangguan"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGN Variability",
+          "begin": "09:50",
+          "end": "10:05",
+          "name": "Suyeon Son",
+          "title": "Optically Variable Type 2 AGNs",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGN Variability",
+          "begin": "10:05",
+          "end": "10:20",
+          "name": "Ziyi Zhou",
+          "title": "TBD",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGN Variability",
+          "begin": "10:20",
+          "end": "10:35",
+          "name": "Minjin Kim",
+          "title": "Probing the Central Structure of AGNs Through Variability",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "",
+          "begin": "10:35",
+          "end": "11:00",
+          "name": "Break",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGNs 2",
+          "begin": "11:00",
+          "end": "11:15",
+          "name": "Linxin Chen",
+          "title": "Study of one AGN dominated galaxy I ZW 1",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGNs 2",
+          "begin": "11:15",
+          "end": "11:30",
+          "name": "Rui Zhou",
+          "title": "Measuring Massive Black hole Mass in JWST Spectra",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGNs 2",
+          "begin": "11:30",
+          "end": "11:45",
+          "name": "Jiwei Liao",
+          "title": "A Host-Subtracted Spectral Energy Distribution for Unobscured AGNs",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGNs 2",
+          "begin": "11:45",
+          "end": "12:00",
+          "name": "Hayeong Jeong",
+          "title": "Infrared Properties of Type 1 AGNs from SPHEREx",
+          "type": ""
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "",
+          "begin": "12:00",
+          "end": "13:00",
+          "name": "Lunch",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "High-z AGNs",
+          "begin": "13:00",
+          "end": "13:20",
+          "name": "Ruancun Li",
+          "title": "Resolve high-redshift quasars with GRAVITY+",
+          "type": "C",
+          "chair": "Lulu Zhang"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "High-z AGNs",
+          "begin": "13:20",
+          "end": "13:40",
+          "name": "Chang-Hao Chen",
+          "title": "TBD",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "High-z AGNs",
+          "begin": "13:40",
+          "end": "13:55",
+          "name": "Yunyi Choi",
+          "title": "The Luminosity Function of UV-Selected Unobscured Quasars at z ∼ 5: A Deep Learning Selection and Gemini/GMOS Confirmation",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "High-z AGNs",
+          "begin": "13:55",
+          "end": "14:10",
+          "name": "Zhongyi Zhang",
+          "title": "Galaxy Environment Research of Little Red Dots.",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "",
+          "begin": "14:10",
+          "end": "14:35",
+          "name": "Break",
+          "title": "",
+          "type": ""
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGNs 3",
+          "begin": "14:35",
+          "end": "14:50",
+          "name": "Shuochun Wang",
+          "title": "Broad-Line AGNs and Their Hosts in CEERS",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "AGNs 3",
+          "begin": "14:50",
+          "end": "15:05",
+          "name": "Junyeong Park",
+          "title": "Optically Faint Type 1 Quasars in the North Ecliptic Pole Field with Euclid Spectroscopy",
+          "type": "C"
+      },
+      {
+          "date": "2027-02-03",
+          "topic": "",
+          "begin": "15:05",
+          "end": "15:25",
+          "name": "Luis Ho",
+          "title": "Concluding Remarks",
+          "type": ""
+      }
   ]
 };
