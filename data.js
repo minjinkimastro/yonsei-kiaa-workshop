@@ -379,7 +379,7 @@ window.WORKSHOP_DATA = {
           "topic": "",
           "begin": "09:20",
           "end": "09:30",
-          "name": "Jinyi Shangguan / Minjin Kim",
+          "name": "Jinyi Shangguan / Taysun Kimm",
           "title": "Opening Remarks",
           "type": ""
       },
